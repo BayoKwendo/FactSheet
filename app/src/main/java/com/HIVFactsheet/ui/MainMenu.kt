@@ -197,7 +197,9 @@ fun HubList(hub: Screen, onOpen: (String) -> Unit) {
         if (hub.id == "you6") {
             item {
                 FindNearbyCard {
-                    val q = Uri.encode("Comprehensive Care Centre HIV clinic near me")
+                    // Official Kenyan term for public HIV clinics; Maps centres on
+                    // the user's current location automatically.
+                    val q = Uri.encode("Comprehensive Care Centre CCC HIV clinic")
                     val uri = Uri.parse("https://www.google.com/maps/search/?api=1&query=$q")
                     runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, uri)) }
                 }
