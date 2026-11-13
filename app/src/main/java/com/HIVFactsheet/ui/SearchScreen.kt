@@ -52,7 +52,7 @@ fun SearchScreen(onOpen: (String) -> Unit, onBack: () -> Unit) {
                         }
                     }
                 },
-                placeholder = { Text("Search all topics…") },
+                placeholder = { Text("Search everything…") },
                 keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
                 modifier = Modifier.fillMaxWidth().padding(12.dp),
             )

@@ -1,8 +1,10 @@
 package com.HIVFactsheet
 
 import android.os.Bundle
+import android.os.SystemClock
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -17,15 +19,18 @@ import com.HIVFactsheet.ui.ContentScreen
 import com.HIVFactsheet.ui.FactSheetTheme
 import com.HIVFactsheet.ui.MainMenu
 import com.HIVFactsheet.ui.SearchScreen
-import com.HIVFactsheet.ui.SplashScreen
 import com.HIVFactsheet.ui.WebScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        val splash = installSplashScreen()
         super.onCreate(savedInstanceState)
         Repository.init(applicationContext)
         Prefs.init(applicationContext)
         Speaker.init(applicationContext)
+        // Hold the single system splash briefly for a brand moment.
+        val startMs = SystemClock.elapsedRealtime()
+        splash.setKeepOnScreenCondition { SystemClock.elapsedRealtime() - startMs < 700 }
         setContent {
             FactSheetTheme { AppNav() }
         }
@@ -40,12 +45,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 private fun AppNav() {
     val nav = rememberNavController()
-    NavHost(navController = nav, startDestination = "splash") {
-        composable("splash") {
-            SplashScreen(onDone = {
-                nav.navigate("menu") { popUpTo("splash") { inclusive = true } }
-            })
-        }
+    NavHost(navController = nav, startDestination = "menu") {
         composable("menu") {
             MainMenu(
                 onOpen = { id -> nav.navigate("screen/$id") },

@@ -3,10 +3,17 @@
     <!-- Plain platform theme; Compose draws the whole UI. Splash window shows
          the brand purple while the Activity starts. -->
     <style name="Theme.FactSheet" parent="@android:style/Theme.Material.Light.NoActionBar">
-        <!-- Colorless (white) splash/window flash; status bar stays on-brand
-             purple so it's seamless with the app's toolbars. -->
+        <!-- Colorless (white) window; status bar stays on-brand purple so it's
+             seamless with the app's toolbars. -->
         <item name="android:windowBackground">@color/white</item>
         <item name="android:statusBarColor">@color/brandPurple</item>
         <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Single system splash: brand logo on a colorless (white) background. -->
+    <style name="Theme.FactSheet.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.FactSheet</item>
     </style>
 </resources>

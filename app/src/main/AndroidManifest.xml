@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- Only the internet is needed now: the external Videos / Viral-Load
-         screens. Calls use ACTION_DIAL (no CALL_PHONE permission required). -->
+    <!-- Internet + network state for the external screens and the in-app
+         "clinics near you" finder; coarse location to find nearby CCCs. -->
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -18,7 +21,7 @@
             android:exported="true"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize"
-            android:theme="@style/Theme.FactSheet">
+            android:theme="@style/Theme.FactSheet.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
