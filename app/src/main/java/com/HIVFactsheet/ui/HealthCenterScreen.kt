@@ -118,49 +118,74 @@ fun HealthCenterScreen() {
             color = MaterialTheme.colorScheme.onBackground,
         )
         Spacer(Modifier.height(12.dp))
+
+        // Primary, always-reliable action: open maps to nearby CCCs.
+        MapsButton(onClick = { openMapsSearch() })
+        Spacer(Modifier.height(16.dp))
+
+        // Best-effort in-app list below (may be unavailable on slow networks).
         when (val s = state) {
-            is FinderState.Loading -> Centered { CircularProgressIndicator(color = BrandPurple) }
-            is FinderState.NeedPermission -> Message(
-                "Allow location to automatically find HIV care centres near you.",
-                action = "Allow location",
-                onAction = {
-                    launcher.launch(
-                        arrayOf(
-                            android.Manifest.permission.ACCESS_COARSE_LOCATION,
-                            android.Manifest.permission.ACCESS_FINE_LOCATION,
-                        )
+            is FinderState.Loading -> Row(verticalAlignment = Alignment.CenterVertically) {
+                CircularProgressIndicator(color = BrandPurple, strokeWidth = 2.dp, modifier = Modifier.size(18.dp))
+                Spacer(Modifier.width(10.dp))
+                Text("Finding clinics in the app…", color = MaterialTheme.colorScheme.onSurfaceVariant, fontSize = 13.sp)
+            }
+            is FinderState.NeedPermission -> InlineNote(
+                "Allow location to list nearby facilities here.",
+                "Allow location",
+            ) {
+                launcher.launch(
+                    arrayOf(
+                        android.Manifest.permission.ACCESS_COARSE_LOCATION,
+                        android.Manifest.permission.ACCESS_FINE_LOCATION,
                     )
-                },
-            )
-            is FinderState.Offline -> Message(
-                "You're offline. Connect to the internet to find clinics near you.",
-                action = "Retry", onAction = { reload++ },
-            )
-            is FinderState.NoLocation -> Message(
-                "Couldn't get your location. Turn on location (GPS) and try again.",
-                action = "Retry", onAction = { reload++ },
-                secondary = "Search in Google Maps", onSecondary = { openMapsSearch() },
-            )
-            is FinderState.Empty -> Message(
-                "No facilities found nearby. Try a wider search in Google Maps.",
-                action = "Open Google Maps", onAction = { openMapsSearch() },
-            )
-            is FinderState.Error -> Message(
-                s.msg, action = "Retry", onAction = { reload++ },
-                secondary = "Search in Google Maps", onSecondary = { openMapsSearch() },
-            )
+                )
+            }
+            is FinderState.Offline -> InlineNote("You're offline — use the button above when connected.", "Retry") { reload++ }
+            is FinderState.NoLocation -> InlineNote("Turn on location to list facilities here.", "Retry") { reload++ }
+            is FinderState.Empty -> InlineNote("No in-app results found — use the button above.", "Retry") { reload++ }
+            is FinderState.Error -> InlineNote("In-app list unavailable right now — use the button above.", "Retry") { reload++ }
             is FinderState.Results -> {
                 Text(
-                    "${s.list.size} found • tap for directions",
+                    "Nearby facilities • tap for directions",
                     fontSize = 13.sp,
+                    fontWeight = FontWeight.Bold,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier.padding(bottom = 6.dp),
+                    modifier = Modifier.padding(bottom = 8.dp),
                 )
                 LazyColumn(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     items(s.list) { c -> ClinicCard(c) { openClinic(ctx, c) } }
                 }
             }
         }
+    }
+}
+
+@Composable
+private fun MapsButton(onClick: () -> Unit) {
+    Card(
+        onClick = onClick,
+        shape = RoundedCornerShape(14.dp),
+        colors = CardDefaults.cardColors(containerColor = BrandPurple, contentColor = BrandCyan),
+        elevation = CardDefaults.cardElevation(defaultElevation = 3.dp),
+        modifier = Modifier.fillMaxWidth(),
+    ) {
+        Row(Modifier.fillMaxWidth().padding(16.dp), verticalAlignment = Alignment.CenterVertically) {
+            Icon(Icons.Filled.LocationOn, contentDescription = null, tint = BrandCyan)
+            Spacer(Modifier.width(14.dp))
+            Column(Modifier.weight(1f)) {
+                Text("Find clinics near me", fontWeight = FontWeight.Bold, fontSize = 17.sp, color = BrandCyan)
+                Text("Opens Google Maps at HIV care centres near you", fontSize = 12.sp, color = BrandCyan.copy(alpha = 0.85f))
+            }
+        }
+    }
+}
+
+@Composable
+private fun InlineNote(text: String, action: String, onAction: () -> Unit) {
+    Row(verticalAlignment = Alignment.CenterVertically) {
+        Text(text, color = MaterialTheme.colorScheme.onSurfaceVariant, fontSize = 13.sp, modifier = Modifier.weight(1f))
+        androidx.compose.material3.TextButton(onClick = onAction) { Text(action, color = BrandPurple) }
     }
 }
 
