@@ -40,7 +40,8 @@ fun SplashScreen(onDone: () -> Unit) {
         onDone()
     }
     Column(
-        modifier = Modifier.fillMaxSize().background(BrandPurple),
+        // Colorless (white) splash background with the brand logo.
+        modifier = Modifier.fillMaxSize().background(androidx.compose.ui.graphics.Color.White),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
     ) {
@@ -49,17 +50,17 @@ fun SplashScreen(onDone: () -> Unit) {
             // XML that shadows @mipmap/ic_launcher on API 26+.
             painter = painterResource(R.drawable.logo),
             contentDescription = null,
-            modifier = Modifier.size(160.dp).scale(scale),
+            modifier = Modifier.size(170.dp).scale(scale),
         )
         androidx.compose.material3.Text(
             text = "FactSheet",
-            color = BrandCyan,
+            color = BrandPurple,
             fontSize = 30.sp,
             modifier = Modifier.padding(top = 16.dp),
         )
         androidx.compose.material3.Text(
             text = "BE INFORMED · BE FACTUAL · STOP STIGMA",
-            color = BrandCyan,
+            color = BrandPurple,
             fontSize = 12.sp,
             textAlign = TextAlign.Center,
             modifier = Modifier.padding(top = 8.dp, start = 24.dp, end = 24.dp),

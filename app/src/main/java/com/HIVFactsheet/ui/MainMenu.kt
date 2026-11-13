@@ -1,11 +1,18 @@
 package com.HIVFactsheet.ui
 
 import android.content.Intent
+import android.net.Uri
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.pager.HorizontalPager
@@ -17,10 +24,15 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.DarkMode
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.LightMode
+import androidx.compose.material.icons.filled.LocationOn
 import androidx.compose.material.icons.filled.Menu
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.HIVFactsheet.data.Prefs
 import androidx.compose.material3.DrawerValue
@@ -91,7 +103,6 @@ fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit, onBookmarks: () -> 
                 DrawerLink("HIV Research", Icons.AutoMirrored.Filled.List) { close(); onOpen("Main43Activity") }
                 DrawerLink("AMPATH", Icons.AutoMirrored.Filled.List) { close(); onOpen("ampath") }
                 DrawerLink("NASCOP VL System", Icons.AutoMirrored.Filled.List) { close(); onOpen("videos") }
-                DrawerLink("Videos", Icons.AutoMirrored.Filled.List) { close(); onOpen("Main39Activity") }
                 HorizontalDivider()
                 DrawerLink(
                     if (isDark) "Light mode" else "Dark mode",
@@ -130,18 +141,39 @@ fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit, onBookmarks: () -> 
             },
         ) { padding ->
             Column(Modifier.padding(padding).fillMaxSize()) {
+                // Prominent tap-to-search bar so information is easy to find.
+                SearchEntryBar(onSearch)
+
                 ScrollableTabRow(
                     selectedTabIndex = pagerState.currentPage,
                     containerColor = BrandPurple,
-                    contentColor = BrandCyan,
-                    edgePadding = 8.dp,
+                    edgePadding = 10.dp,
+                    indicator = {},
+                    divider = {},
                 ) {
                     reg.tabs.forEachIndexed { i, tab ->
+                        val selected = pagerState.currentPage == i
                         Tab(
-                            selected = pagerState.currentPage == i,
+                            selected = selected,
                             onClick = { scope.launch { pagerState.animateScrollToPage(i) } },
-                            text = { Text(tab.title, fontWeight = FontWeight.Bold) },
-                        )
+                            selectedContentColor = BrandPurple,
+                            unselectedContentColor = BrandCyan,
+                        ) {
+                            Text(
+                                tab.title,
+                                fontWeight = if (selected) FontWeight.Bold else FontWeight.Normal,
+                                fontSize = 15.sp,
+                                color = if (selected) BrandPurple else BrandCyan.copy(alpha = 0.75f),
+                                modifier = Modifier
+                                    .padding(vertical = 8.dp, horizontal = 6.dp)
+                                    .then(
+                                        if (selected) Modifier
+                                            .background(BrandCyan, RoundedCornerShape(50))
+                                            .padding(horizontal = 16.dp, vertical = 7.dp)
+                                        else Modifier.padding(horizontal = 16.dp, vertical = 7.dp)
+                                    ),
+                            )
+                        }
                     }
                 }
                 HorizontalPager(state = pagerState, modifier = Modifier.fillMaxSize()) { page ->
@@ -155,15 +187,74 @@ fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit, onBookmarks: () -> 
 
 @Composable
 fun HubList(hub: Screen, onOpen: (String) -> Unit) {
-    val content = hub.content?.let { Repository.content(it) } ?: emptyList()
+    val context = LocalContext.current
     LazyColumn(
         contentPadding = PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(4.dp),
         modifier = Modifier.fillMaxSize(),
     ) {
+        // Smart finder on the health-center tab: open maps to nearby CCCs.
+        if (hub.id == "you6") {
+            item {
+                FindNearbyCard {
+                    val q = Uri.encode("Comprehensive Care Centre HIV clinic near me")
+                    val uri = Uri.parse("https://www.google.com/maps/search/?api=1&query=$q")
+                    runCatching { context.startActivity(Intent(Intent.ACTION_VIEW, uri)) }
+                }
+            }
+        }
         items(hub.children) { childId ->
             val child = Repository.screen(childId) ?: return@items
             TopicCard(title = child.title, onClick = { onOpen(childId) })
+        }
+    }
+}
+
+/** Prominent tap-to-search bar shown at the top of the home screen. */
+@Composable
+private fun SearchEntryBar(onSearch: () -> Unit) {
+    Surface(
+        onClick = onSearch,
+        color = MaterialTheme.colorScheme.surface,
+        shape = RoundedCornerShape(12.dp),
+        tonalElevation = 2.dp,
+        modifier = Modifier.fillMaxWidth().padding(12.dp),
+    ) {
+        Row(
+            Modifier.padding(horizontal = 14.dp, vertical = 13.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Icon(Icons.Filled.Search, contentDescription = null, tint = BrandPurple)
+            Spacer(Modifier.width(10.dp))
+            Text("Search all topics…", color = MaterialTheme.colorScheme.onSurfaceVariant)
+        }
+    }
+}
+
+/** Big action card that launches maps to the nearest HIV care centres. */
+@Composable
+private fun FindNearbyCard(onClick: () -> Unit) {
+    Card(
+        onClick = onClick,
+        shape = RoundedCornerShape(14.dp),
+        colors = CardDefaults.cardColors(containerColor = BrandCyan, contentColor = BrandPurple),
+        elevation = CardDefaults.cardElevation(defaultElevation = 3.dp),
+        modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp),
+    ) {
+        Row(
+            Modifier.fillMaxWidth().padding(16.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Icon(Icons.Filled.LocationOn, contentDescription = null, tint = BrandPurple)
+            Spacer(Modifier.width(14.dp))
+            Column(Modifier.weight(1f)) {
+                Text("Find a CCC near you", fontWeight = FontWeight.Bold, fontSize = 17.sp, color = BrandPurple)
+                Text(
+                    "Opens maps to HIV care centres near your location",
+                    fontSize = 13.sp,
+                    color = BrandPurple.copy(alpha = 0.8f),
+                )
+            }
         }
     }
 }

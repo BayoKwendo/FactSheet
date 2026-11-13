@@ -306,7 +306,6 @@ tabs = [
     {"id": "you",     "title": "Facts About HIV"},
     {"id": "you10",   "title": "Reproductive Health"},
     {"id": "you6",    "title": "Find a Health Center"},
-    {"id": "partners","title": "Youth Initiatives"},
 ]
 registry = {
     "start": "you",          # first tab shown on the home menu
