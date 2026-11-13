@@ -20,12 +20,18 @@ import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Check
+import androidx.compose.material.icons.filled.Stop
+import androidx.compose.material.icons.filled.TextDecrease
+import androidx.compose.material.icons.filled.TextIncrease
+import androidx.compose.material.icons.automirrored.filled.VolumeUp
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -49,6 +55,7 @@ import com.HIVFactsheet.data.Prefs
 import com.HIVFactsheet.data.Repository
 import com.HIVFactsheet.data.Screen
 import com.HIVFactsheet.data.Span
+import com.HIVFactsheet.data.Speaker
 
 private val Highlight = Color(0xFFFFEB3B)
 
@@ -72,6 +79,23 @@ fun ContentScreen(
     val hasContent = blocks.isNotEmpty()
 
     val bookmarked = Prefs.isBookmarked(screen.id)
+    val spokenText = remember(screen.id) {
+        buildString {
+            append(screen.title).append(". ")
+            blocks.forEach { b ->
+                when (b) {
+                    is Block.Para -> append(b.spans.joinToString("") { it.text })
+                    is Block.Heading -> append(b.spans.joinToString("") { it.text })
+                    is Block.Bullet -> append(b.spans.joinToString("") { it.text })
+                    is Block.Img -> {}
+                }
+                append(". ")
+            }
+        }
+    }
+    // Stop any read-aloud when leaving this page.
+    DisposableEffect(screen.id) { onDispose { Speaker.stopIfSpeaking(screen.id) } }
+
     AppScaffold(
         title = screen.title,
         onBack = onBack,
@@ -80,6 +104,12 @@ fun ContentScreen(
         onSearchToggle = if (hasContent) {
             { searchOpen = !searchOpen; if (!searchOpen) query = "" }
         } else null,
+        bottomBar = {
+            if (hasContent) ReadingBar(
+                speaking = Speaker.speakingId == screen.id,
+                onListen = { Speaker.toggle(screen.id, spokenText) },
+            )
+        },
     ) { padding ->
         Column(Modifier.padding(padding)) {
             if (searchOpen && hasContent) {
@@ -127,6 +157,37 @@ fun ContentScreen(
     }
 }
 
+/** Bottom bar with read-aloud and text-size controls — the reading toolkit. */
+@Composable
+private fun ReadingBar(speaking: Boolean, onListen: () -> Unit) {
+    Surface(color = BrandPurple, contentColor = BrandCyan) {
+        Row(
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 8.dp, vertical = 4.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            androidx.compose.material3.TextButton(
+                onClick = onListen,
+                colors = androidx.compose.material3.ButtonDefaults.textButtonColors(contentColor = BrandCyan),
+            ) {
+                Icon(
+                    if (speaking) Icons.Filled.Stop else Icons.AutoMirrored.Filled.VolumeUp,
+                    contentDescription = null,
+                )
+                Spacer(Modifier.width(6.dp))
+                Text(if (speaking) "Stop" else "Listen", fontWeight = FontWeight.Bold)
+            }
+            Spacer(Modifier.weight(1f))
+            Text("Text size", fontSize = 13.sp)
+            IconButton(onClick = { Prefs.stepFont(up = false) }) {
+                Icon(Icons.Filled.TextDecrease, contentDescription = "Smaller text", tint = BrandCyan)
+            }
+            IconButton(onClick = { Prefs.stepFont(up = true) }) {
+                Icon(Icons.Filled.TextIncrease, contentDescription = "Larger text", tint = BrandCyan)
+            }
+        }
+    }
+}
+
 /** Highlighted card that frames the refreshed "latest guidance" blocks. */
 @Composable
 private fun GuidanceCallout(blocks: List<Block>, query: String) {
@@ -166,23 +227,24 @@ private fun BlockView(
     query: String,
     color: Color = MaterialTheme.colorScheme.onBackground,
 ) {
+    val fs = Prefs.fontScale
     when (block) {
         is Block.Heading -> Text(
             text = highlighted(block.spans, query),
             color = color,
-            fontSize = when (block.level) { 1 -> 24.sp; 2 -> 20.sp; else -> 18.sp },
+            fontSize = ((when (block.level) { 1 -> 24; 2 -> 20; else -> 18 }) * fs).sp,
             fontWeight = FontWeight.Bold,
-            lineHeight = 30.sp,
+            lineHeight = (30 * fs).sp,
         )
         is Block.Para -> Text(
             text = highlighted(block.spans, query),
             color = color,
-            fontSize = 16.sp,
-            lineHeight = 24.sp,
+            fontSize = (16 * fs).sp,
+            lineHeight = (24 * fs).sp,
         )
         is Block.Bullet -> Row(Modifier.fillMaxWidth().padding(start = 4.dp)) {
-            Text("•  ", color = color, fontSize = 16.sp)
-            Text(highlighted(block.spans, query), color = color, fontSize = 16.sp, lineHeight = 24.sp)
+            Text("•  ", color = color, fontSize = (16 * fs).sp)
+            Text(highlighted(block.spans, query), color = color, fontSize = (16 * fs).sp, lineHeight = (24 * fs).sp)
         }
         is Block.Img -> {
             val context = LocalContext.current

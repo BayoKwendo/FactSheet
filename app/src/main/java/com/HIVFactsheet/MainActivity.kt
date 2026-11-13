@@ -11,6 +11,7 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.HIVFactsheet.data.Prefs
 import com.HIVFactsheet.data.Repository
+import com.HIVFactsheet.data.Speaker
 import com.HIVFactsheet.ui.BookmarksScreen
 import com.HIVFactsheet.ui.ContentScreen
 import com.HIVFactsheet.ui.FactSheetTheme
@@ -24,9 +25,15 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         Repository.init(applicationContext)
         Prefs.init(applicationContext)
+        Speaker.init(applicationContext)
         setContent {
             FactSheetTheme { AppNav() }
         }
+    }
+
+    override fun onDestroy() {
+        Speaker.shutdown()
+        super.onDestroy()
     }
 }
 

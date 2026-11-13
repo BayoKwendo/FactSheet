@@ -14,6 +14,11 @@ object Prefs {
     private const val FILE = "factsheet_prefs"
     private const val K_BOOKMARKS = "bookmarks"
     private const val K_DARK = "dark_mode"   // 0 = system, 1 = light, 2 = dark
+    private const val K_FONT = "font_scale"
+
+    const val FONT_MIN = 0.85f
+    const val FONT_MAX = 1.6f
+    private const val FONT_STEP = 0.15f
 
     private var sp: android.content.SharedPreferences? = null
 
@@ -24,6 +29,10 @@ object Prefs {
     var darkMode by mutableStateOf<Boolean?>(null)
         private set
 
+    /** Reading text-size multiplier applied to content. */
+    var fontScale by mutableStateOf(1.0f)
+        private set
+
     fun init(context: Context) {
         if (sp != null) return
         val p = context.getSharedPreferences(FILE, Context.MODE_PRIVATE)
@@ -31,6 +40,13 @@ object Prefs {
         bookmarks.clear()
         bookmarks.addAll(p.getStringSet(K_BOOKMARKS, emptySet())!!.sorted())
         darkMode = when (p.getInt(K_DARK, 0)) { 1 -> false; 2 -> true; else -> null }
+        fontScale = p.getFloat(K_FONT, 1.0f).coerceIn(FONT_MIN, FONT_MAX)
+    }
+
+    fun stepFont(up: Boolean) {
+        val next = (fontScale + if (up) FONT_STEP else -FONT_STEP).coerceIn(FONT_MIN, FONT_MAX)
+        fontScale = next
+        sp?.edit()?.putFloat(K_FONT, next)?.apply()
     }
 
     fun isBookmarked(id: String) = id in bookmarks

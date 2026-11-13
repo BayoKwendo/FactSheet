@@ -304,7 +304,7 @@ for fqn, c in classes.items():
 # The 4 main-menu tabs (ViewPager in legacy MainActivity).
 tabs = [
     {"id": "you",     "title": "Facts About HIV"},
-    {"id": "you10",   "title": "RH"},
+    {"id": "you10",   "title": "Reproductive Health"},
     {"id": "you6",    "title": "Find a Health Center"},
     {"id": "partners","title": "Youth Initiatives"},
 ]

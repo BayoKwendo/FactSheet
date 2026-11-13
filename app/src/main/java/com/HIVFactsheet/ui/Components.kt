@@ -66,10 +66,12 @@ fun AppScaffold(
     bookmarked: Boolean? = null,
     onBookmark: (() -> Unit)? = null,
     onSearchToggle: (() -> Unit)? = null,
+    bottomBar: @Composable () -> Unit = {},
     content: @Composable (PaddingValues) -> Unit,
 ) {
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
+        bottomBar = bottomBar,
         topBar = {
             TopAppBar(
                 title = {
