@@ -1,0 +1,890 @@
+
+===== PAGE KEY: resistance  | TITLE: Resistance =====
+#What is drug resistance?
+One of the possible consequences of not taking your HIV treatment properly is that your HIV will develop resistance to anti-HIV drugs.
+Drug-resistant HIV strains vary – some may be highly resistant to anti-HIV drugs, while others may be less so.
+ When an anti-HIV drug is started, HIV that is fully susceptible to that drug disappears rapidly and drug-resistant viruses remain.
+ If the HIV replication is not fully suppressed, these resistant viruses can continue to reproduce themselves despite the drug's presence.
+Resistance is an important reason why HIV treatment can fail.
+ Viral load, which should drop when you start a new drug combination, will increase again if drug-resistant HIV is able to emerge.
+ However, newer anti-HIV drugs provide treatment options for people who have developed resistance to other drugs and resistance does not need to be a reason for someone to become seriously ill because of HIV.
+#Take your HIV treatment
+Taking your HIV treatment in the correct doses, at the right time, observing any food restrictions and avoiding interactions with other drugs will reduce the risk of resistance developing.
+#Take the right anti-HIV drugs
+Before you start HIV treatment for the first time, or change treatment because your viral load is detectable, you should have a resistance test.
+The results of a resistance test will help you and your doctor to choose the combination of drugs that is likely to be most effective against your HIV.
+
+===== PAGE KEY: risk_sex  | TITLE: Risk Sexual Behaviour =====
+#Consequences of risky sexual behavior
+The main consequences of risky sexual behavior include the following: 
+- Unintended pregnancies 
+- Sexually transmitted infections 
+- School dropout 
+- Unattained goals/loss of opportunities 
+- Loss of self-esteem due to guilt and loss of reputation 
+- Depression 
+- Stigma; self-stigma; felt and enacted stigma 
+- Death 
+- Unsafe abortions 
+- Unintended pregnancy.
+Some of the feelings that people experience can be frightening because they are new, and that is normal. Feelings do not dictate a particular action people choose their actions and behaviors.
+Sexual behaviors have consequences and people need to weigh the alternatives and the consequences for each action. Also consider the positive consequences; The value of sex is also that it is used for procreation, love and pleasure.
+It is always wise to think about when it is appropriate to have sex, as well as the reasons for having sex. You should always try to wait until you are more mature and older; encourage abstinence and waiting for a lasting serious relationship.
+
+===== PAGE KEY: rr  | TITLE: PrEP and PEP =====
+#How is (PrEP) different from (PEP)?
+ PrEP is not the same as PEP (which stands for Post-Exposure Prophylaxis). While both are taken by HIV-negative people to prevent HIV, PrEP is taken to reduce the risk of getting HIV from the potential exposure that may occur sometime in the future. It should be taken once every day so when a person comes in contact with HIV, his or her body is ready to fight off the virus. PrEP should be taken continuously for as long as a person remains at high risk of HIV (for example, when one’s partner is HIVpositive, or when a person has multiple sex partners). 
+PEP, on the other hand, is taken only after a person might have been exposed to HIV (for example a condom broke or was not used with a partner who is possibly HIVpositive, or a person was raped). PEP has to be started within 3 days after possible
+HIV exposure and involves taking a full treatment dose of ARV drugs two or three times a day for 28 days. Because of the higher dose of ARVs, side effects are more common with PEP than with PrEP, and these side effects are more pronounced. 
+PEP is a good choice for those who may experience rare, accidental exposure to HIV, while PrEP is a good choice for people who have an ongoing high risk of HIV exposure.
+HIV is unable establish infection
+Combination Prevention 
+- Behavioral Interventions
+- Intervention to encourage safer sex choices/behaviors such as risk reduction counselling, sexuality education, social marketing to promote effective condom use etc)
+- Structural Interventions
+- Interventions that promote an enabling environment (protecting the rights of PLHIV, GBV prevention and mitigation, stigma reduction, empowerment etc) 
+#Pre- vs Postexposure Prophylaxis
+- After exposure to HIV, infection may become established 
+- Postexposure prophylaxis (initiated soon after exposure) reduces the chance of infection
+- Pre-exposure prophylaxis begins treatment earlier (before exposure)
+
+===== PAGE KEY: rrr  | TITLE: Disclosure =====
+#Here are some general disclosure tips:
+- Be selective. Choosing whom to tell or not tell is your personal decision. It's your choice and your right.
+- Consider the five "W's" when thinking about disclosure: who, what, when, where and why. Who do you need to tell? What do you want to tell them about your HIV infection, and what are you expecting from the person you are disclosing your HIV status to? When should you tell them? Where is the best place to have this conversation? Why are you telling them?
+- Easy does it. In most situations, you can take your time to consider who to tell and how to tell them.
+- Consider whether there is a real purpose for you to tell this person or if you are simply feeling anxious and want to "dump" your feelings.
+- Telling people indiscriminately may affect your life in ways you haven't considered.
+- Having feelings of uncertainty about disclosure is a very common reaction.
+- You have a virus. You don't have anything to apologize for simply because you are HIV positive.
+- Keep it simple. You don't have to tell the story of your life.
+- Avoid isolating yourself. If you are unable to tell close friends, family members or other loved ones about your HIV status, allow yourself to draw upon the support and experience of others in the HIV community. Consider joining a support group or an online forum, such as the POZ Forums.
+- There's no perfect roadmap for how to disclose. Trust your instinct, not your fears.
+- Even if the response you receive in a specific situation, doesn't go the way you'd hoped, you're going to survive it and your life will go on.
+- Millions of others have dealt with this experience and have found their way through it. You will get through it too.
+
+===== PAGE KEY: rt  | TITLE: All About PrEP =====
+#Is there evidence for PrEP? 
+-  Large research studies, including some done in Kenya show that PrEP reduces new HIV infections by more than 90% if taken every day. 
+#Evidence that PrEP works 
+- PrEP has been shown to work in rigorous clinical trials and also during demonstration ‘real world’ 
+#pilot projects 
+- However, the effectiveness of PrEP is dependent on adherence. Virtually no infections occurred in PrEP users who were adherence to the medication
+#Why PrEP?
+-  HIV is to be a big problem in Kenya, as we continue to have many new infections every year despite efforts at HIV prevention. 
+- More than 71,000 new infections occur annually.
+#How does PrEP work?
+- If you are exposed to HIV, these medicines can stop the virus from multiplying and spreading throughout your body. 
+- PrEP only works if you have enough medicine in your body, so you need to take PrEP every day.
+#Who is PrEP for? 
+- PrEP is not for everyone, but may be a suitable prevention method for many people at risk of acquiring HIV.
+- Some of these people could include serodiscordant couples, and people who have sex with someone of unknown HIV status.
+- Remember that PrEP is for use only in HIV negative individuals
+#Recommended ARVs for PrEP
+-  In Kenya the recommended ARVs for use for pre-exposure prophylaxis are as follows 
+- Preferred TDF 300mg/FTC 200 mg once daily 
+- Alternative 1 TDF 300 mg once daily 
+- Alternative 2 TDF 300/3TC 300 mg once daily 
+- Follow-up and Monitoring of PrEP 
+#Reasons for scheduled monitoring of PrEP use
+- Improving adherence 
+- Routine HTS 
+- Managing suspected acute HIV infection 
+- Managing confirmed HIV infection 
+- Managing adverse drug reactions
+- Minor 
+- Elevated creatinine 
+#Is PrEP safe? 
+- Yes it is! 
+- Although PrEP is safe, it will be provided under the supervision of trained health care workers.
+- Some people will experience some minor side effects, but this will resolve within 7-14 days.
+#Is PrEP safe? - 1 
+- Overall safety 
+- TDF-based PrEP is generally safe and well tolerated. 
+- Gastrointestinal symptoms are the most common. 
+- Occur in about 10% of individuals: 
+- Include nausea, diarrhoea, vomiting 
+- Self-limited and subside with 1-2 weeks
+- Renal Effects 
+- About 10% of PrEP users may experience mild, self-limited 
+- A small proportion of users may experience progressive decline in renal function.
+- This very rare in users younger than 45 years of age without underlying kidney disease or risk of kidney disease
+#Is PrEP safe? -2
+-  Bone mineral density adverse effect 
+-  A known side effect of TDF 
+-  In studies and pilot projects, mineral density changes were small (~1%); with no effect on health 
+-  Risk of fractures not higher in PrEP users compared to non-users 
+- PrEP use in pregnancy and breastfeeding
+-  HIV negative partners of HIV+ partners can use PrEP if they wish to have a baby.
+- PrEP does not interfere with female or male fertility 
+-  PrEP can be used safely during pregnancy and breastfeeding.
+- Resistance occurs sometimes when antiretrovirals are used for treatment.
+- Extremely rare with PrEP, and limited to those with unrecognized acute HIV infection when starting PrEP 
+- Resistance can only occur if there is infection.
+- Risk of resistance far outweighed by number of HIV infections averted by PrEP
+#Where can you get PrEP?
+- It will be available at designated places, including Public health facilities, Private health facilities, Pharmacies, and various community outlets
+#What PrEP Cannot do 
+- Prevent other STIs 
+- Prevent Pregnancy 
+
+===== PAGE KEY: ry  | TITLE: AMPATH RESEARCH =====
+The AMPATH Research Network, currently led by Dr. Rachel Vreeman of Indiana University and Dr. Winstone Nyandiko of Moi University, was born in 1998. 
+ The research program was built on a solid foundation with an eye toward sustainability. The efforts to create a sustainable program included establishing:
+- A research program office at AMPATH to oversee and coordinate research activities.
+- A Research and Sponsored Programs office to provide grants managements and other essential services.
+- An Institutional Review Board to ensure that proposed research is both ethical and culturally-appropriate.
+- An ISO certified laboratory with enhanced capacity to support research projects.
+This infrastructure has allowed the program to grow from a single research project to more than 90 active projects with research funding in excess of $83.4 million.
+ Our research projects have included collaborators from more than 19 universities and academic institutions in Africa, Europe, and North America. Over 275 publications have resulted from these collaborations.
+The program structure has been adapted over the years to deal with its growth. Initially, there was one full-time IU researcher working and living in Kenya.
+ Now, there are 5 co-field directors for Research; three are full-time in Kenya. To facilitate collaboration, the program is organized into 9 research working groups (adult medicine, basic science, behavioral & social science, cardiovascular and pulmonary disease, oncology, pediatrics, public health & primary care, reproductive health, and tuberculosis) and 7 cores (operations, data management, biostatistics, clinical informatics, pharmacy, laboratory, and bioethics).
+ Additionally, each project must have both a North American and Kenyan principal investigator.
+For more information http://www.ampathkenya.org/our-programs/research-informatics/research/
+
+===== PAGE KEY: services  | TITLE: SERVICES PROVIDED =====
+#SERVICES PROVIDED
+#SHORT TERM PROGRAMS – 1ST YEAR
+- HIV prevention services- condom promotion and provision, PreP
+- HIV treatment services-OI screening and treatment, ARV provision, psychosocial support, outreach services, Viral load monitoring
+-  Reproductive Health services- promotion of abstinence, FP promotion and provision, 
+-  Mental Health Services- screening, treatment and referral for mental health disorders and substance use.
+-  Street youth services- emergency injury and drug intoxication care, HIV care, 
+-  Teen parenting services- counseling, parenting lessons, healthy relationships promotion
+-  NHIF- promotion and linkage
+-  GBV screening- Screening and referral
+-  School program- repatriation to school, school visits
+- Resilience, team building and confidence building activities - Salsa dancing, Beading, Public speaking
+- Microfinance activities : Beading, tailoring-linkage to existing programs
+-  Transitioning to adult care
+#EDIUM TERM (2-5 YEARS)
+- Reproductive Health services- ANC, PNC, CWC 
+-  Mental Health Services- Running psychiatry health clinic on site 
+-  Teen parenting services- Regular parenting classes 
+-  Chronic disease screening- screening for diabetes and hypertension and referral
+-  NHIF-adolescent package provision 
+- GBV screening- GBV services on site. 
+-  School program- repatriation to school, school visits
+-  Resilience, team building and confidence building activities - Salsa dancing, Beading, Public speaking
+-  Microfinance activities : car wash, hotel services, ART gallery shop, dancing and deejaying clubs
+#LONG TERM (MORE THAN 5 YEARS)
+-  Adolescent health rotation for medical students and training package for other cadre of staff
+-  Adolescent specific wards
+- Adolescent specific outpatient services
+- Chronic disease units for adolescents
+
+===== PAGE KEY: sex  | TITLE: HIV-Children =====
+img: 
+#How did I get the HIV virus? 
+There are many ways a person can contract the HIV virus. Sometimes, children can contract the HIV virus from their mother during child birth. Other times, children can receive blood transfusions with the virus in the extra blood. HIV can also be transmitted through unprotected sexual intercourse. In the past, we did not have drugs to prevent the passing of the virus from mother to child and didn’t have appropriate tools to test blood before transfusions. You cannot change that you were infected with the HIV virus, but it is important to recognize how you can manage the HIV in your system. You can best manage the HIV virus by taking your medicines daily. You can prevent passing the virus to anyone else by taking your medicines, not engaging in unprotected sex, and taking care of any open wounds you may have. 
+#How long do I need to take the medicines?
+Sometimes, you may feel like taking medicines is cumbersome and difficult to swallow. You should continue to take your medicines daily as the doctor or clinical officer has prescribed to you. If you stop taking your medicines, your soldier cells may become weak and the virus can take over your body and make you very sick. By taking your medicines, your soldier cells stay strong and you won’t get sick!
+#What Does CD4 count mean?
+The CD4 count is the number of healthy soldier cells you have in your blood. The more healthy soldier cells you have in your blood, the better you will feel!
+#Can this disease be cured?
+Right now we do not have a way to cure this disease. We cannot kill it and remove it from the body. But the good news is that your medicines can control the virus, so the virus will not harm you. The medicines can keep the virus sleeping. HIV can be controlled by strictly taking medications and following doctor’s instructions. Researchers and doctors are working to find a cure for this disease, but right now there is no cure, anywhere in the world. When you hear that there is a cure, this is false information. 
+#How long will I live?
+If you take your meds regularly, follow doctors’ instructions well and take good care of yourself —like eating good foods, getting good sleep, making healthy decisions and staying away from risky behaviors such as drug and alcohol use and unprotected sexual intercourse—you can grow up to be an adult, have a family, be healthy and achieve your dreams in life. 
+#Am I dying?
+People who have HIV will not die very soon if they take good care of themselves and take their medications regularly. They can still live normally and choose their own way to live. Many children who started taking ARV drugs in their childhood have lived positive lives and have attended schools, become doctors and nurses, have families, and accomplish many things in their adult lives. 
+#Can I have a boyfriend/ girlfriend or get married one day?
+Yes, you can have a boyfriend/girlfriend or get married when you are an adult and ready. The foundation of a couple’s life together is built on understanding and trusting each other. Both your health and your partner’s health should be discussed in a trusting and honest way. Your counselor can help you to prepare for talking about this with the person you choose
+#Should I tell a boyfriend/girlfriend that I have HIV? If so, when?
+If you have a boyfriend or girlfriend, you should disclose your status when you feel you truly trust that person. This is a very careful decision and you should take your time. Refrain from engaging in any unprotected sexual behaviors until you have told the person. Remember, if you care about this person, you should help protect him or her and not transmit the virus. Focus on strengthening your relationship with trust and caring before you disclose your status or engage in adult behaviors. 
+#Is it necessary that I should be boyfriend/girlfriend, or married, only with a HIV positive person?
+If you have HIV and your partner does not, that is okay! But you need to use appropriate protection, so you do not transmit the virus to your partner. Please consider talking to a counselor or a doctor for appropriate advice in how to manage HIV and not transmit it to your partner. Your life as a couple will require understanding and safe practices; the doctor will give you good directions. 
+#It’s okay to have Questions!
+Being diagnosed with HIV can be a scary experience, and you may find yourself asking many questions. It is important to know that you are not alone and there are many people including your doctors and counselors to help you with your challenges. In this pamphlet are some of the most frequent questions asked by adolescents who have recently learned they are HIV positive. 
+#For more information:
+#Hadithi Research Group
+ HADITHI Principal Investigators:Rachel C. Vreeman - Pediatrician  rvreeman@iu.edu Winstone Nyandiko - Pediatrician nyandikom@yahoo.com  HADITHI Study CoordinatorsCarole McAteer hadithistudy@gmail.com Josephine Aluoch hadithistudy@gmail.com 
+
+===== PAGE KEY: sex_safe  | TITLE: Safer Sex =====
+#Latest guidance
+Modern HIV prevention combines several tools: condoms, PrEP for HIV-negative people, and treatment (U=U) for people living with HIV.
+#SAFER SEX
+Practicing safer sex allows partners to reduce their sexual health risks. The basic rules for safer sex are to prevent contact with genital sores as well as the exchange of body fluids, such as semen, blood, and vaginal secretions. Practicing safer sex all the time is very important because infections are usually spread between partners who have no symptoms of infection. 
+The most effective means of preventing pregnancy and STIs is abstaining from oral, vaginal, or anal sex.
+Sexually active individuals can reduce their risk of STIs by reducing the number of sexual partners they have, by engaging in less risky behaviors, and by using latex condoms. Reducing Partners The fewer partners a person has in their lifetime and the longer he/she delays beginning to have sex, the lower his/her risk of transmitting or contracting HIV or other STIs.` 
+
+It is safest to practice monogamy (having only one partner) with an uninfected partner. Partners do not need to worry about STIs if neither partner has ever had sex with anyone else, has ever shared needles with anyone else, or has ever had an STI.  
+
+The only way to know this for sure, however, is for both partners to be TESTED for STIs and HIV by a health-care provider.
+ It is important to remember that individuals may not know they had an infection, may not be totally honest about their sexual history, or may have been born with HIV.  In addition, having concurrent partners (more than one partner at the same time) greatly increases a person’s risk of contracting STIs, including HIV. 
+Sexually active individuals should consider being tested for STIs and HIV at regular intervals or before they begin a new sexual relationship. Engaging in Safer Behaviors Is another way to reduce the risk of contracting an STI is by engaging in lower risk sexual behaviors like masturbation, manual stimulation, body rubbing, and kissing. 
+
+Again, to prevent STIs it is important to AVOID CONTACT with body fluids, including blood and semen, as well as any sores or growths caused by STIs. It is also important to remember that people can come into contact with blood through other non-sexual behaviors such as sharing needles (for drug use or tattoos). 
+
+ Avoiding these behaviors is also essential to preventing HIV in particular. Using Condoms Sexually active individuals can help prevent STIs by using condoms. 
+ 
+- Male latex condoms, when used consistently and correctly, are highly effective in reducing the transmission of HIV and other STIs.
+- Female condoms can also reduce the risk of STI transmission when used correctly
+ABSTINENCE, also called “celibacy,” can be defined differently by different people. Some people define it as not having vaginal intercourse while others use the term to mean not engaging in any kind of sexual behavior with another person.
+- Correct Use: For the purposes of preventing pregnancy partners must avoid vaginal intercourse.
+- Effectiveness: Abstinence can be 100 percent effective at preventing pregnancy if partners never engage in vaginal intercourse.
+STD prevention: Abstinence from vaginal intercourse can also reduce individuals’ risk of contracting an STI, though it is important to remember that sexual behaviors other than vaginal intercourse can carry some risk of STIs.
+
+===== PAGE KEY: sexuality  | TITLE:  =====
+#WHAT DOES IT MEAN TO BE SEXUALLY HEALTHY?
+Being sexually healthy means taking care of your physical and emotional health by practicing safer sex and being comfortable with your body, your sexuality, and your relationships.
+Is sex good for you?
+Having a healthy sex life is good for you both emotionally and physically.
+ Sex can help you create a connection with another person, and sexual pleasure has lots of health benefits — whether you’re with a partner or not.
+ When you have an orgasm, your body gives you a natural high. You release endorphins, which are hormones that block pain and make you feel good.
+There are lots of other health benefits associated with sexual pleasure:
+- better general health
+-  better sleep
+-  better self-esteem
+-  better fitness
+-  less stress and tension
+-  a longer life
+
+===== PAGE KEY: sexvalue  | TITLE: Values about Sex =====
+#Value System
+Every society, community, family and therefore every individual, has values, which give direction to one’s life. Values describe precise moral beliefs about how things really are.
+These include beliefs :
+- About your place in the world,
+- About how you should relate to others and about how others should relate to you;
+- Beliefs about your responsibility to others and about other people’s responsibility to you;
+- Beliefs about your own worth and about the worth of others
+- Beliefs about the real worth of material things.
+When you hold fast to whatever your beliefs are, the result is referred to as your value system, which is what shapes your attitudes and your behavior. 
+You get your values or your moral beliefs through the process of growing up and being exposed to the ways of significant persons, institutions and events in your life. For example your parents, your family as a whole, your church or religious organization, your school and teachers, your community, and also the particular things that happen to you, all make impressions on you and shape you. Each person develops a built-in value system.
+This does not mean that values remain fixed for a person’s entire life. A value system can change. The change is always influenced by significant persons and events, which make an impact on the person’s present values, or cause the person to question his or her existing values.
+#Sexual values
+Sexual behavior is an area of human life that is open to conflicting values and opinions. Just think of the moral questions surrounding acts or activities such as abortion, masturbation, homosexuality, pre- marital sex or extra-marital sex. Different groups of people have different precise moral beliefs about sexual practices and behavior. Young people are many times confused about values because of the wide range of conflicting behaviours in their society. Moral standards can differ, and peer helpers will sometimes have difficulty in remaining neutral because of their individual value systems.
+
+===== PAGE KEY: sideeffects  | TITLE: Side Effects =====
+You do not have to put up with side-effects – there is nearly always something that can be done about them.
+Talk to your doctor if side-effects are affecting the quality of your life.
+It is an accepted reason for the need to think about changing the treatment you are on.
+- Diarrhoea
+- Feeling or being sick
+- Headache
+- Mood and sleep problems
+- Rash
+- Sexual problems
+- Tiredness
+
+===== PAGE KEY: sleep  | TITLE: Sleep =====
+Not getting enough sleep can cause health problems, but there are a number of practical things you can do to sleep better and in some cases medicines may help.
+#Why do we need to sleep?
+Sleep is essential to both physical and mental health.
+ Sleep allows the body and mind to rest and recover.
+ Long-term sleep deprivation can cause emotional problems such as depression.
+Lack of, or poor, sleep can also put you at risk of medical conditions such as heart disease ,obesity and type 2 diabetes .
+ It is thought that long-term sleep problems can mean that the immune system doesn’t work properly, meaning that a person may be more likely to get ill.
+#Structure of sleep
+Sleep follows a pattern, alternating between REM (rapid-eye-movement) sleep and non-REM sleep.
+ In the course of a night, the body goes through cycles of REM and non-REM sleep.
+ Five or six cycles of this pattern are needed for a good night’s sleep.
+#How much sleep is needed
+People’s sleep needs vary but most adults need between six and nine hours each night.
+ If you have been working or exercising very hard, are ill, or recovering from an illness or infection, you may find that the amount of sleep you need increases substantially.
+Getting enough sleep is important but it’s also important not to oversleep.
+ Sleeping too much can reduce motivation and make you feel tired.
+#Insomnia
+Not being able to sleep is called insomnia .
+ It can take many forms. Some people find it difficult to fall asleep; others wake up after just a few hours of sleep and then can’t get back to sleep;
+ some people wake up very early in the morning; and others find that their sleep does not leave them feeling refreshed.
+Causes of insomnia
+For many people, worry or stress is the cause of their sleeplessness.
+ Once a problem has resolved, then sleep patterns become better.
+ However, more serious problems like anxiety and depression can cause sleep problems which last for very long periods.
+ Symptoms of illnesses, such as night sweats, and pain can also interfere with sleep.
+ It's a good idea to report these problems to your doctor.
+#Managing sleep problems
+In many cases, a few lifestyle changes are enough to bring back good sleep.
+ These might include avoiding tea and coffee and other stimulants for several hours before going to bed, or not napping during the day.
+Keeping regular sleeping hours may help, if possible, so your body can get into a routine.
+ Not going to bed until you are feeling ready to sleep may also help.
+ If you cannot get to sleep after about 30 minutes, get up rather than tossing and turning and getting frustrated, which often makes the problem worse.
+Keeping a record of your sleep, known as a sleep diary, might be useful.
+If you are finding it difficult to get to sleep, you could try these ideas to get you ready for bed:
+- Have a warm bath.
+- Have a warm drink, such as camomile tea or milk. But try to avoid caffeinated drinks for three to four hours before going to bed.
+- If stress or worry is keeping you awake, getting your thoughts down on paper may help.  Create a to-do list of your tasks for the next day if you find you are thinking about them when you are trying to get to sleep.
+- Try relaxation or breathing exercises. Some people find that some aromatherapy oils help them to relax.
+- Read a book or listen to an audio-book or some relaxing music.
+- Try not to watch TV or use phones, computers or electronic gadgets in bed.
+
+===== PAGE KEY: smoke  | TITLE: Smoking =====
+Smoking is one of the most important causes of illness and death in HIV-positive people.
+Smoking increases the risk of lung cancer, heart disease, high blood pressure and stroke.
+HIV-positive smokers have a greater risk of lung cancer than other smokers.
+Tobacco is a legal, and widely used, drug.
+#Smoking and HIV
+Smoking, in itself, does not make HIV infection worse.
+The rate at which HIV disease progresses or the number of CD4 cells lost is no greater in smokers than non-smokers.
+However, there are higher levels of smoking among people with HIV than in the general population, with the accompanying health risks.
+ For people taking HIV treatment who have an undetectable viral load, smoking has a much greater impact on life expectancy than HIV infection.
+It’s well known that smoking increases the risk of heart disease , high blood pressure , and stroke.
+There is evidence that smoking is the main risk factor for heart disease in people with HIV.
+In addition, there is some evidence that having HIV may itself increase the risk of heart disease.
+It’s well established that smoking increases the risk of a number of cancers, including lung cancer.
+Stopping smoking (or not starting in the first place) will significantly reduce your risk of developing heart disease and other cardiovascular illnesses.
+ Giving up, whatever age you are, can improve your day-to-day health as well as potentially increasing your life expectancy.
+You are most likely to stop smoking and stay stopped if you are motivated.
+More recently, electronic cigarettes (e-cigarettes) have become a popular aid for stopping smoking.
+Giving up smoking is hard.
+ You are most likely to give up if you get expert support.
+ But there are things you can do, alongside this, to help you with it.
+ Avoiding ‘triggers’ – activities that you associate with smoking – where possible, may help. 
+Exercise can also be helpful.
+ Some people find that alternative therapies such as acupuncture and hypnotherapy help them stop smoking.
+
+===== PAGE KEY: socii  | TITLE: Test Used =====
+#HOW IS THE TEST USED?
+#The test is helpful in several areas: 
+- For medical researchers, the test proved that HIV is never “latent” but is always multiplying. Many people with no symptoms of AIDS and high CD4 cell counts also had high viral loads. If the virus was latent, the test wouldn’t have found any HIV in the blood.
+-  The test can be used for diagnosis , because it can detect a viral load a few days after HIV infection. This is better than the standard HIV (antibody) test, which can be “negative” for 2 to 6 months after HIV infection. ( Fact Sheet 102 has more information on HIV antibody testing. )
+- For prognosis , For prognosis, viral load can help predict how fast HIV disease progresses without treatment. The higher the viral load, the faster the disease progression.
+-  For prevention, viral load predicts how easy it is to transmit HIV to someone else. The higher the viral load, the higher the risk of transmitting HIV.
+- For managing therapy , the test shows treatment is controlling the virus. Current guidelines ( Fact Sheet 404 ) suggest measuring baseline (pre-treatment) viral load. Treatment is “working” if it lowers viral load by at least 90% within 8 weeks. The viral load should continue to drop to less than 50 copies within 6 months. The viral load should be measured within 2 to 8 weeks after treatment is started or changed. It should be monitored every 6 months after that for patients with good adherence who have an undetectable viral load and have been clinically stable on their treatment for 2 or 3 years. According to the guidelines, treatment failure is indicated by a confirmed viral load above 200 copies while adherent to treatment.
+
+===== PAGE KEY: stage  | TITLE: Stages of HIV =====
+#Latest guidance
+The term “advanced HIV disease” is now used instead of “AIDS”. With early treatment, most people never reach this stage.
+Everyone starts ART immediately at diagnosis, so HIV is usually controlled long before the immune system is damaged.
+#Primary infection –stage one
+The stage of infection lasts for few weeks and is often accompanied by short flu like illness, which occurs just after infection.
+ In up to 20% of the people the symptoms are serious enough to consult a doctor, but the diagnosis is frequently missed.
+ Even if HIV antibody test is done at this time, it may not yet be positive. 
+During this stage there is large amount of HIV in the blood and the immune system begins to respond to the virus by producing antibodies. 
+#Clinically asymptomatic stage- stage two
+The stage last for an average of ten years and is free from any symptoms, although there may be swollen glands.
+ The level of HIV in the blood drops to very low levels but people remain infectious and HIV antibodies are detectable in the blood.
+Recent research has shown that HIV is not dormant during this stage, but is very active in the lymph nodes.
+ Many T helper cells are infected and die, and a large amount of the virus is produced. 
+A new test is now available to measure the small amount of HIV that escapes the lymph nodes.
+This test, which measure HIV RNA [HIV genetic material] is referred to as the viral load test and it has an increasingly important role in the treatment of HIV infection.
+#Symptomatic HIV infection -stage three 
+Over time the immune system loses the struggle to contain HIV.
+ This is for three main reasons:
+- The lymph nodes and the tissues become damaged or ‘burnt out’ because of years of activity. 
+- HIV mutates (changes) and become more pathogenic, in other words stronger and more varied leading to more T helper cell destruction. 
+- The body fails to keep up with replacing the T helper cells that are lost. 
+As the immune system fails, so symptoms develop.
+ Initially many of the symptoms are mild, but as the immune system deteriorates, the symptoms worsen. 
+#Progression from HIV to AIDS -stage four 
+As the immune system becomes more and more damaged, illnesses become more and more severe, leading eventually to an AIDS diagnosis.
+At present an AIDS diagnosis is confirmed if a person with HIV develops one or more of a specific number of severe opportunistic infections or cancers.
+ However, people can still be very ill with HIV but not have an AIDS diagnosis. 
+#Delaying AIDS
+- HIV-positive people who pay attention to their nutrition needs and eat a balanced diet develop AIDS later and die later than those who are malnourished.
+- An HIV person, may get information on nutrition from many sources, talk to others living successfully with HIV, and consult a doctor before deciding what is the best diet or medication for him or her. 
+- As the body grows weaker and weaker, at sometime it will lose the power to be able to fight other disease and sickness. This is when you start to feel and look very sick. The stage is called AIDS (short for Acquired Immune Deficiency Syndrome)
+- As a person’s immune system begins to weaken because of HIV infection, that person begins acquiring infections that he or she might have otherwise resisted.  These infections are called opportunistic infections.
+
+===== PAGE KEY: starttreat  | TITLE: Starting Treatment =====
+It’s better to start HIV treatment sooner, rather than later.
+Treatment will reduce the risk of HIV transmission, prevent illnesses and extend your life.
+A range of different antiretroviral drugs are available.
+Anti-HIV drugs work by lowering the amount of HIV in the blood (viral load). The aim of HIV treatment is an undetectable viral load.
+ This means that the amount of HIV in a blood sample is so low that it cannot be detected using a standard test.
+ Reducing the amount of HIV in your blood allows your immune system (measured by your CD4 cell count ) to strengthen.
+ The higher your CD4 cell count, the lower your risk of becoming ill because of HIV (and possibly some other serious illnesses as well).
+You should discuss with your doctor the best time for you to start HIV treatment.
+There are a number of factors you might want to consider, including:
+- The benefits of starting treatment now.
+- The potential risks if you delay starting treatment.
+- Are you ready to start treatment now?
+- Are there other factors in your life that affect your ability to start taking HIV treatment?
+#When to start treatment
+Until recently, doctors weren’t sure of the best time to start HIV treatment.
+ However in 2015 a large, well-conducted study demonstrated that there are advantages to starting treatment as soon as possible, with high CD4 cell counts.
+ The study clearly demonstrated that starting HIV treatment earlier reduces the risk of serious illnesses, AIDS and death.
+ While people sometimes worry about the side-effects of anti-HIV drugs, the study also showed that people who began HIV treatment earlier had a better quality of life than people who waited.
+Because of this, HIV treatment guidelines, both in the UK and elsewhere in the world, now recommend that all people with HIV should take HIV treatment, regardless of their CD4 count.
+If your CD4 cell count is below 200, it is especially important that you begin HIV treatment as soon as possible.
+
+===== PAGE KEY: sti  | TITLE: Things TO Know About STDS =====
+1 in 2 sexually active people will get a sexually transmitted disease or infection – an STD/STI – by the age of 25 (and there is still risk beyond that).
+But the good news is that they are avoidable, manageable and definitely.
+#REMEMBER
+If you test positive for any STI, you should inform all recent sexual partners (past 60 days) so they can get tested and treated too.
+#Can STDs be passed on to a baby?
+During early prenatal care, most women undergo tests to determine whether or not they have any STDs.
+ Some STDs can be transmitted to the fetus during pregnancy and others may be transmitted during the birth process if a woman has a STD at that time.
+If you have intercourse with more than one partner during pregnancy, it is important to use latex condoms every time. If you are pregnant and know or suspect that a partner is having sex with others, talk with your doctor about your risks for STDs and how to reduce the chances of passing them to your baby.
+#Can STDs be transferred through oral sex?
+They sure can. Although oral sex is often considered “safer” than vaginal or anal intercourse, it is still possible for STDs to be transmitted.
+You can make oral sex even safer by using a latex condom or dental dam, which is a latex rectangle that can be placed between the mouth and the vagina, vulva, or anus. To view a full STD list and discover how each can be transmitted, take a peek at our Uncovering STDs tool.
+#Can I get an STD from a toilet seat?
+No. STDs/STIs are transmitted from one infected person to another during vaginal, anal or oral sex or through intimate sexual contact (i.e., hand jobs, genital-to-genital contact without penetration, etc.)
+ The only other way that STDs can be transmitted is from an infected pregnant woman to her fetus or baby during childbirth.
+ Some infections, such as Hepatitis B and HIV are sexually transmitted but can also be transmitted from an infected person to another through direct blood-to-blood contact (i.e. sharing an intravenous needle).
+ To learn more about specific STDs and how they are spread, check out our Uncovering STDs tool.
+#How soon can I be tested after having unprotected sex?
+If you think you’ve been exposed to an STD, go to your health care provider or a local health center to get tested.
+ Sometimes symptoms of an STD will show up just a couple of days after becoming infected, and sometimes it can take months.
+ If you think you may have been exposed, it is very important to not engage in sexual activity until you are tested and treated, if necessary. Remember, many infections do not cause any symptoms but they can still be transmitted to another person during sex.
+ If you believe you may be at risk for having an infection, get tested.
+#What should I do if I think I have an STD?
+First off, don’t panic. You should go see a medical provider and get tested right away.
+ It’s also a good idea to hold off on having sexual contact with anyone until you know for sure what is going on and whether or not you have a STD. You can find a health center location in your neck of the woods by visiting our Health Center Locator.
+People with multiple sexual partners, those who think they may have been exposed, those who’ve had unprotected sex with a partner whose health status was unknown, or anyone who has symptoms of an STD should definitely get tested. It’s the first crucial step on the road to proper treatment.
+#Which STDs are curable?
+There are approximately 30 STDs that have been identified throughout the world.
+ Some can be cured with prescription medication and others remain in the body and are currently considered not curable, including HIV.
+ All STDs can be treated, meaning that any uncomfortable symptoms, such as herpes sores, can usually be helped through medication or certain procedures.
+ To see a full list of STDs and learn how each is treated, pull back the covers on our Uncovering STDs tool.
+#Is every STD testable?
+Yes. There are tests available for all STDs, except for HPV in men. There are different tests for different STDs, but most are simple and non-invasive. The tests can range from blood or urine samples to vaginal swabs or small samples taken from the infected site (a sore, for example).
+ Find a full STD list and all the test details in our Uncovering STDs tool.
+Visit a health center and talk with a health care provider to determine which infections are common in your area and which tests may be needed for your specific situation.
+#How do I know if I have an STD?
+Quick question, quick answer. The only way to know for sure if you have an STD is to visit a health care provider and get tested.
+ If you believe you may have been exposed or contracted an STD, you can learn about the symptoms, treatment and other details in our Uncovering STDs tool.
+ Knowing that info is helpful, but to know for sure go ahead and get tested at a friendly site – just visit our convenient Health Center Locator.
+#What is an STD vs. an STI?
+The difference, really, is in the terminology itself. Way back in the day, sexually transmitted infections were called “venereal diseases,” believed to have been so-called after the Goddess of Love, Venus.
+Today, professionals use the terms STD (sexually transmitted disease) or STI (sexually transmitted infection) to discuss infections that are transmitted from one infected person to another through vaginal, anal or oral sex or through close intimate sexual contact.
+ Using either STD or STI is accurate, however more and more “STI” is being used as the most up-to-date term. The reason for this is that people can have an infection without it actually turning into a disease. Check out our Uncovering STDs tool to see a master list of STDs and learn how they are transmitted.
+#What’s the best way to prevent spreading or getting an STD/STI?
+As with all STDs/STIs, the most effective protection is to abstain from sexual activity or be monogamous with one-long-term partner who has tested negative.
+ Using latex condoms (male or female) or dental dams can significantly reduce the risk of contracting or spreading an infection.
+ Using a water-based lubricant is A-OK, but don’t use anything with oils in it because it can make the condom ineffective. There are some STDs, like herpes and HPV that condoms are less effective at preventing (good reminder for guys and gals to get the HPV vaccine).
+
+===== PAGE KEY: stis  | TITLE: STIs =====
+STIs can be caused by bacteria, viruses or parasites.
+More common STIs include:
+- Chlamydia, including Lymphogranuloma Venereum (LGV)
+- genital and anal warts (caused by the human papillomavirus, or HPV).
+- gonorrhoea
+- hepatitis A, B and C 
+- herpes (caused by the herpes simplex virus, or HSV). This can cause both oral (on the mouth) and genital infection
+- syphilis
+- parasites such as pubic lice (sometimes called crabs) and scabies
+- shigellosis, an illness caused by the bacteria Shigella, and other illnesses that cause diarrhoea
+- trichomoniasis, an infection caused by a very small parasite.
+#Common symptoms
+There are some common symptoms of STIs.
+ These include:
+- a discharge from your vagina, penis or anus. This may be discoloured – for example, milky, yellowish or like mucus – or may have blood in it
+- pain or swelling around your anus or testicles
+- generally feeling unwell
+- for herpes, numbness, itching and tingling, followed by bumps that become small, fluid-filled blisters
+- for syphilis, small sores, spots or ulcers on the penis or around the mouth, vagina or anus
+- for hepatitis A, B and C, symptoms can include jaundice (a yellowing of skin and eyes), nausea and vomiting, and tiredness
+- for genital warts, lumps and bumps around the genital area and anus diarrhoea with blood and pain.
+#Treatment
+Bacterial infections and trichomoniasis can be cured with antibiotics.
+ These may be given as tablets or by injections, depending on the STI you have.
+Antiviral drugs can be used to treat some viral infections.
+ Herpes cannot be cured and the virus stays in nerve cells for life, although most of the time it may not cause symptoms.
+ You may have flare-ups from time to time, especially if you have a weakened immune system.
+ Your immune system may cure HPV, the genital warts virus, but this may take a long time and for some people never happens.
+Lotions can clear infestations of parasites such as scabies or pubic lice, along with washing clothing, towels and bedding at high temperatures.
+Any sexual partners you have had since the time you may have been infected should also go for a sexual health check, as they may also need to be treated.
+#Transmission and prevention of STIs
+STIs can be transmitted through anal, oral and vaginal sex, and by sharing sex toys.
+ Some can also be passed on through rimming (mouth-to-anus contact), kissing or other close physical contact.
+ Parasites can be passed on by sharing towels or bedding.
+ Some STIs (including hepatitis A) and other infections (for example, gut infections such as giardia) can be caused by contact with infected faeces (excrement, shit), such as during rimming or fisting.
+Hepatitis B is passed on by contact with the blood, semen, saliva, or vaginal fluids of a person with hepatitis B.
+ It is easily passed on during sex without a condom and from a mother to her baby during delivery.
+Hepatitis C is normally passed on through blood-to-blood contact.
+Using condoms during anal or vaginal sex, using a condom or dental dam for oral sex, and not sharing sex toys can protect you against most STIs.
+ If you are fisting, to protect yourself against hepatitis C, wear latex gloves and do not share pots of lubricant..
+ With some STIs, using a condom or dental dam will reduce the risk of infection, but not protect you completely.
+There are vaccines available for hepatitis A and B.
+ Unless they have a natural immunity to these viruses, people with HIV are recommended to be vaccinated against them.
+ You may have these vaccinations at your GP surgery rather than your HIV clinic.
+ If your immune system becomes weaker, you may need to have your immunity level checked.
+If you have been diagnosed with an STI, or are having a flare-up of herpes symptoms, you may be advised not to have sex (even with a condom) until any treatment is finished, and sometimes for a while after that.
+
+===== PAGE KEY: su  | TITLE: HIV and Pregnancy =====
+#Should pregnant women get tested for HIV? How is testing done?
+Young women who are planning on becoming pregnant or who are pregnant should be tested for HIV as soon as possible. The woman’s partner should also be tested. 
+Health care provider may offer testing and counseling or may refer her to a local testing sight.
+#How can HIV/AIDS affect my pregnancy?
+In most cases, HIV will not cross through the placenta from mother to baby. If the mother is healthy in other aspects, the placenta helps provide protection for the developing infant. Factors that could reduce the protective ability of the placenta include in-uterine infections, a recent HIV infection, advanced HIV infection or malnutrition.
+Unless a complication should arise, there is no need to increase the number of prenatal visits. Special counseling about a healthy diet with attention given to preventing iron or vitamin deficiencies and weight loss as well as special interventions for sexually transmitted diseases or other infections (such as malaria, urinary tract infections, tuberculosis or respiratory infections) should be part of the prenatal care of HIV infected GIRL.
+Health care providers should watch for symptoms of AIDS and pregnancy complications of HIV infection. 
+#What is the chance that my baby will become HIV positive?
+A baby can become infected with HIV in the womb, during delivery or while breastfeeding. If the mother does not receive treatment. Its the responsibility of the pregnant woman to protect her child
+#How will my prenatal care be handled differently if I am HIV positive?
+A multi-care approach is the most effective way for pregnant women with HIV infection to have a healthy pregnancy and delivery. This approach will address the medical, psychological, social and practical challenges of pregnancy with HIV. While the woman’s pregnancy is being managed by a health care provider and HIV specialist, she may also receive assistance from a social services agency to help her with housing, food, child care and parenting concerns.
+She would also be receiving counseling support for herself and her partner. Additional care could be provided in the areas of substance abuse and lifestyle counseling. This team effort will provide the best prenatal care plan for women infected with HIV. Many of these services could continue during her postpartum period.
+Zidovudine (also known as ZDV, AZT and Retrovir®) was the first drug licensed to treat HIV. Now it is used in combination with other anti-HIV drugs and is often used to prevent perinatal transmission of HIV. ZDV should be given to HIV-infected women beginning in the second trimester and continuing throughout pregnancy, labor and delivery. Side effects include nausea, vomiting and low red or white blood cell counts.
+#How does HIV affect my labor and birth?
+If no preventative steps are taken, the risk of HIV transmission during childbirth is estimated to be 10-20%. The chance of transmission is even greater if the baby is exposed to HIV-infected blood or fluids. Health care providers should avoid performing amniotomies (intentionally rupturing the amniotic sac to induce labor), episiotomies and other procedures that expose the baby to the mother’s blood. The risk of transmission increases by 2% for every hour after membranes have been ruptured.
+#Will my baby need treatment after delivery?
+A 1994 study by the National Institutes of Health found that giving ZDV to an HIV-positive pregnant woman during her pregnancy and to her baby (within 8-12 hours of birth) decreased the risk of passing the infection on to the baby by 66%. The baby should be treated with ZDV for the first six weeks of life. Eight percent of babies of women treated with ZDV became infected, compared with 25 percent of babies of untreated women.
+
+===== PAGE KEY: supportgrp  | TITLE: Support Groups =====
+“I wanted to see other people with HIV. 
+We gained strength just from knowing each other”
+Youths living with HIV need a lot of emotional, spiritual, psychological, social, physical and clinical support.
+It is important for youth living with HIV to come together and support one another.
+ People living with HIV would know better what their  hopes, joys, anxieties, fears and needs  are and they are the ones who should define how best they want to be understood and treated.
+Some of the common needs of people living with HIV are:
+- Health and medical supplies and skilled medical services.
+- Counselling to reduce isolation and promote acceptance.
+- Community support groups to provide a safe place where feelings and advice can be shared.
+- Spiritual support such as prayer groups and home visits by religious leaders.
+#Disclosure
+This is a difficult area for all people living with HIV, the leader and other support group members should be patient with one another.
+Disclosure is difficult for some support group members because sometimes members will not have told their families, friends or partners. 
+The individual members will want at times to first deal with their own emotions before they tell other people. This process is important and should be allowed to take its course. 
+#Acceptance
+This matter needs to be discussed with support group members.
+Members of a new group may be at different stages in terms of when they were diagnosed. Those who are newly diagnosed may be in a state of shock and be very anxious. Those who have lived with their diagnosis for longer may have accepted  it and learned to live with it. Members should be assessed and evaluated from time to time to see where they are in terms of:    accepting their status  What would help them to be in control of their status  What kind of support do they need Who is important to give them that support?  What difficulties do they encounter at certain points  What would make them feel better? 
+Discussing these questions with individuals or in the group can help people to be in touch with their feelings.
+#Tips for running meetings
+#Its very wise to develop a plan of action
+Once everyone is clear on the purpose of the group as expressed in the vision, the members can develop a plan of action. A plan of action should include specific things that the group wishes to chieve to help make the vision a reality. They could include things like “ learning to stand up for our rights as patients” or “learning to eat the right things or “learning relaxation”. Discuss exactly what you need to do to make the plan of action a success. Will you invite an expert to address the group? Do you need to get some materials such as tapes or CDs? Make sure someone is given the job to follow-up on each issue. A plan of action should be REALISTICS. The group should not try and do too much too soon. Examples of what can be done in a support group: 
+- Talks and presentations from experts:-
+- Social events:-
+- Group and individual counselling sessions:-
+#Protecting yourself against re-infection
+The group should discuss the need to protect themselves against re-infection. 
+Some people with HIV think that they can be in no further danger if they have sex without a condom because they are already infected. This is not true! HIV has many different strains, some of them very powerful. 
+ If a person with HIV fails to protect themselves against further infection, he or she may contact a strain of HIV that is more dangerous than the strain they already have.
+#Protecting others
+A very important role of the group should to be to ensure that the members learn how to not spread HIV to others.
+ In group meetings remind the members that they not only have a responsibility to look after their own health but must also protect others from contacting the virus.
+This means that a youth with HIV must ensure that a condom is used each and every time she or he has sex. 
+Some women may be afraid to ask husbands or boyfriends to use them. Ensure that the members know exactly how to use condoms properly Youths with HIV should ensure that they keep their toothbrushes and razors for their own use and should not use someone else’s toothbrush or razor. HIV can spread through fresh blood on these items.
+#Correcting Misunderstandings
+The group should also play a role in correcting some common misunderstandings on how HIV is spread.
+ HIV CANNOT be spread through any social or affectionate touching which does not involve the exchange of bodily fluids. Kissing is a very low risk activity. Sharing the same bedding is perfectly safe. HIV-positive and negative people can share meals together with no risk whatsoever. While sharing the same kitchen utensils cannot transmit HIV, this can transmit TB and flu viruses.
+#Correct condom use
+Using condoms correctly will greatly reduce the risk of HIV infection.
+ While some may find the issue a little embarrassing, it is important that group members have the opportunity to discuss proper condom use and ask questions. The support group can help to correct any misunderstandings about condom use.
+#Evaluation of the support group
+Evaluation is judging the effectiveness of the support group in meeting the needs of the group members. 
+Every so often the group should re-examine its vision and see to if the activities and functions of the group are helping make that vision a reality.
+If the group is off-track with its vision or goals then the members need to discuss how the group can change its focus to style="max-width: 100%" align="left"> better meet the needs. Brainstorm with the members and list all the strengths and the weaknesses of the group. 
+Address each weakness and discuss what the group could do to help turn them into strengths.
+The needs of group members may change over time. When this occurs the group can revisit its vision and change it to suit the changing needs.
+
+===== PAGE KEY: tbdiag  | TITLE: TB Diagnosis =====
+Many countries still rely on a long-used method called sputum smear microscopy to diagnose TB.
+ Trained laboratory technicians look at sputum samples under a microscope to see if TB bacteria are present.
+ Microscopy detects only half the number of TB cases and cannot detect drug-resistance.
+The use of the rapid test Xpert MTB/RIF® has expanded substantially since 2010, when WHO first recommended its use.
+ The test simultaneously detects TB and resistance to rifampicin, the most important TB medicine.
+ Diagnosis can be made within 2 hours and the test is now recommended by WHO as the initial diagnostic test in all persons with signs and symptoms of TB.
+Diagnosing multi-drug resistant and extensively drug-resistant TB as well as HIV-associated TB can be complex and expensive.
+ In 2016, 4 new diagnostic tests were recommended by WHO :–
+ a rapid molecular test to detect TB at peripheral health centres where Xpert MTB/RIF cannot be used, and 3 tests to detect resistance to first- and second-line TB medicines.
+Tuberculosis is particularly difficult to diagnose in children and as yet only the Xpert MTB/RIF assay is generally available to assist with the diagnosis of paediatric TB.
+
+===== PAGE KEY: tbover  | TITLE: TB Overview =====
+Tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs.
+Tuberculosis is curable and preventable.
+TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air.
+A person needs to inhale only a few of these germs to become infected.
+When a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months.
+ This can lead to delays in seeking care, and results in transmission of the bacteria to others.
+ People with active TB can infect 10–15 other people through close contact over the course of a year.
+ Without proper treatment, 45% of HIV-negative people with TB on average and nearly all HIV-positive people with TB will die.
+#Who is most at risk?
+Tuberculosis mostly affects adults in their most productive years.
+ However, all age groups are at risk.
+ Over 95% of cases and deaths are in developing countries.
+People who are infected with HIV are 20 to 30 times more likely to develop active TB.
+Tobacco use greatly increases the risk of TB disease and death.
+
+===== PAGE KEY: tbsymptoms  | TITLE: TB Symptoms =====
+Common symptoms of active lung TB are:
+-  cough with sputum and blood at times
+-  chest pains
+-  weakness
+-  weight loss
+-  fever and night sweats.
+
+===== PAGE KEY: tbtreat  | TITLE: TB Treatment =====
+TB is a treatable and curable disease.
+ Active, drug-susceptible TB disease is treated with a standard 6 month course of 4 antimicrobial drugs that are provided with information, supervision and support to the patient by a health worker or trained volunteer.
+ Without such support, treatment adherence can be difficult and the disease can spread.
+ The vast majority of TB cases can be cured when medicines are provided and taken properly.
+#Multidrug-resistant TB
+Anti-TB medicines have been used for decades and strains that are resistant to 1 or more of the medicines have been documented in every country surveyed.
+ Drug resistance emerges when anti-TB medicines are used inappropriately, through incorrect prescription by health care providers, poor quality drugs, and patients stopping treatment prematurely.
+Multidrug-resistant tuberculosis (MDR-TB) is a form of TB caused by bacteria that do not respond to isoniazid and rifampicin, the 2 most powerful, first-line anti-TB drugs.
+ MDR-TB is treatable and curable by using second-line drugs.
+ However, second-line treatment options are limited and require extensive chemotherapy (up to 2 years of treatment) with medicines that are expensive and toxic.
+In some cases, more severe drug resistance can develop.
+ Extensively drug-resistant TB (XDR-TB) is a more serious form of MDR-TB caused by bacteria that do not respond to the most effective second-line anti-TB drugs, often leaving patients without any further treatment options.
+Worldwide, only 54% of MDR-TB patients and 30% of XDR-TB are currently successfully treated.
+ In 2016, WHO approved the use of a short, standardised regimen for MDR-TB patients who do not have strains that are resistant to second-line TB medicines.
+ This regimen takes 9–12 months and is much less expensive than the conventional treatment for MDR-TB, which can take up to 2 years.
+ Patients with XDR-TB or resistance to second-line anti-TB drugs cannot use this regimen, however, and need to be put on longer MDR-TB regimens to which 1 of the new drugs (bedquiline and delamanid) may be added.
+
+===== PAGE KEY: tean  | TITLE: HIV-CareGivers =====
+img: 
+#How can you tell if someone is sick? 
+Sometimes, people can show signs of being sick through physical symptoms, like losing weight and becoming thin, rashes, or coughing. However, many times people may have an illness, but manage the illness with taking medications. With proper management of the illness, you may not be able to tell if a person is sick. 
+#Why am I taking medicines if I am not physically sick? 
+Sometimes, we need to take medicines to keep our bodies healthy. You are prescribed pills even though you are not showing physical signs of sickness because there is still an illness or sickness in your body that could cause problems if you are not taking the medicines. Your body has soldier cells to help fight illnesses and keep your body healthy and strong. The pills prescribed to you help make your soldier cells strong. 
+#Why am I taking medicines and my siblings are not taking medicines? 
+Each person’s body can react differently to illnesses. For instance, one of your siblings may develop a cough during the rainy season, but you don’t! Your siblings may not have to take pills every day because their soldier cells that fight off illness are already strong. You need to do what is right for your body alone. Since your body needs to have strong soldier cells, remember to take the pills to strengthen your soldier cells! 
+#How Did I Get The HIV virus?
+There are many ways a person can contract the HIV virus. Sometimes, children can contract the HIV virus from their mother during child birth. Other times, children can receive blood transfusions with the virus in the extra blood. HIV can also be transmitted through unprotected sexual intercourse. In the past, we did not have drugs to prevent the passing of the virus from mother to child and didn’t have appropriate tools to test blood before transfusions. You can best manage the HIV virus by taking your medicines daily. You will not transmit the virus to anyone else if you do not engage in unprotected sex, you take your medicines daily, and you take care of any open wounds you may have.
+#How long do I need to take the meds?
+Sometimes, you may feel like taking medicines is cumbersome and difficult to swallow. You should continue to take your medicines, daily, as the doctor or clinical officer has prescribed to you. If you stop taking your medicines, your soldier cells may become weak and the virus can take over your body and make you very sick. By taking your medicines, your soldier cells stay strong and you won’t get sick! 
+#What Does CD4 count mean? 
+The CD4 count is the number of healthy soldier cells you have in your blood. The more healthy soldier cells you have in your blood, the better you will feel! 
+#Can this disease be cured?
+Right now we do not have way to cure this disease. We cannot kill it and remove it from the body. But the good news is that your medicines can control the virus, so the virus will not harm you. The medicines can keep the virus sleeping. HIV can be controlled by strictly taking medications and following doctor’s instructions. Researchers and doctors are working to find a cure for this disease, but right now there is no cure, anywhere in the world. When you hear that there is a cure, this is false information. 
+#How long will I live?
+If you take your medicines regularly, follow doctors’ instructions well, and take good care of yourself (by eating good foods, getting good sleep, making healthy decisions and staying away from risky behaviors such as drugs, alcohol, and unprotected sexual intercourse), you can grow up to be an adult, be healthy, and achieve your dreams in life. 
+#Am I dying?
+People who have HIV will not die very soon if they take good care of themselves and take their medications regularly. They can still live normally and choose their own way to live. Many children who started taking ARV drugs in their childhood have lived positive lives and have attended schools, become doctors and nurses, have families, and accomplish many things in their adult lives. 
+#For more information:
+#Hadithi Research Group
+ HADITHI Principal Investigators:Rachel C. Vreeman - Pediatrician  rvreeman@iu.edu Winstone Nyandiko - Pediatrician nyandikom@yahoo.com  HADITHI Study CoordinatorsCarole McAteer hadithistudy@gmail.com Josephine Aluoch hadithistudy@gmail.com 
+
+===== PAGE KEY: teansoci  | TITLE: Viral Load =====
+#What is VIRAL LOAD?
+Viral load is the amount of virus in your blood.
+A viral load test is a blood test to count the virus in your blood.
+#Why is it important?
+Knowing your viral load helps your doctor monitor your health and know whether your treatment is working.
+#How does your treatment work?
+When you take your medication everyday, they stop the virus from multiplying so the virus in your body will decrease.
+#What Does Your Test Results Mean?
+- High Viral Load. There is too much virus in the blood. You are not taking your medications properly therefore the treatment is not working properly If you take your medication everyday, you can get your viral load become undetectable 
+- Low or Undetectable A viral load which is undetectable You have very little virus in your blood. The drugs you are taking are working well A low or undetectable viral load does not mean you no longer have the virus It means it can hardly be measured with the tests we use.
+- *Low or undetectable viral load means you are taking your medicine well and that they are working properly. You are less likely to pass the virus
+- *But If you stop taking your medicines, the viral load will increase.
+- *The chance of passing the virus to others is higher when you have high viral load.
+- *You are also likely to get other infections when your viral load is high.
+
+===== PAGE KEY: teenagepreg  | TITLE: What to do if I found out am pregnant =====
+img: 
+#What can I do in case I find out I am pregnant?
+A surprise pregnancy can be stressful and scary.
+ You’re the only one who can decide what to do, but there are people who can give you info and support. You’re not alone.
+- Take the time to think Different issues will influence every woman and affect the amount of time needed to make their decision. The following questions may help you work out what is the best decision at this time in your life.
+- Assess Your relationships:  Do you have support from family or a partner? Can you work things out through the tough times? 
+- Think of Your responsibilities: What does being a parent mean to you? Who can you call on to offer you support emotionally and financially?  
+- Think of your Future plans:   How will this decision affect your plans for the future?  Where do you see yourself in one, two and five years’ time?  If you are considering having a termination, it is best to have this as early as possible but it is important to take the time to make the best decision for you. 
+Remember It’s your right to have:
+- confidential care
+- safe, non-judgemental care
+- respect, whichever choice you make
+If you need advice or someone to talk to, please call 1190 or reach to our online counselor 
+
+===== PAGE KEY: therapy  | TITLE: Therapeutic Goals =====
+#The goal: an undetectable viral load
+The aim of treatment is to lower the amount of HIV in the blood to an undetectable level (under 50 copies/mL).
+Staying undetectable keeps your immune system strong and means you cannot transmit HIV sexually (U=U).
+Global 95-95-95 goal: 95% of people with HIV knowing their status, 95% of them on ART, and 95% of those virally suppressed.
+#Therapeutic Goals 
+The primary goal of antiretroviral therapy is to improve the health and prolong the life of the HIV- infected child or adult.
+ This is achieved by interfering with the ability of the virus to replicate or reproduce inside the body.
+ When the virus is unable to replicate, damage to the immune system is minimized.
+ Because the immune system is functioning more normally, the treated individual is less susceptible to opportunistic infections, malignancies, and other illnesses.
+ HIV-infected patients receiving antiretroviral therapy also are less likely to develop other complications associated with HIV/AIDS, such as wasting syndrome and encephalopathy (a disorder of the brain).
+ Most patients taking effective antiretroviral therapy will live longer than they would without medications. 
+
+===== PAGE KEY: transmoccur  | TITLE: How HIV is Transmitted =====
+HIV can be transmitted through – and, as far as essentially all evidence shows, only through – several well-established routes:
+- ,By sharing injecting equipment
+- By receiving blood transfusions or other blood-related products from an infected person
+- From an HIV-positive mother to her baby
+- Through risky sexual activities.
+What constitutes a 'risky' activity (sexual or otherwise) is based on two kinds of data:
+ theoretical (i.e., what is biologically plausible) and epidemiological (what has actually been seen in the 'real world').
+Biologically, four conditions need to be present for transmission to occur:
+- virus must be present in an infectious body fluid from the HIV-positive person
+-  it must be present at sufficient levels to cause infection
+-  there must be an effective route of transmission
+- it must reach susceptible cells in another person
+Well-established, evidence-based guidelines have classified sexual activities into risk categories based on whether these biological conditions for transmission are present, and on the number of new infections that can be attributed to these behaviours.
+ These risk categories are:
+High risk: well-established, predominant modes of transmission with clear biological and epidemiological evidence.
+Low risk: biologically plausible routes of transmission with relatively few attributable cases.
+ The possible ambiguities and uncertainties inherent in this category are discussed in detail below.
+Theoretical risk: biologically plausible routes with no clearly documented cases of transmission.
+No risk: 'impossible' modes of transmission with no documented cases or biological plausibility.
+The relative risks of specific sexual activities, including anal, vaginal and oral intercourse and other forms of sexual activity, are summarised in the next section and discussed at length in following chapters.
+Comparative risks Comparing the precise degrees of risk of specific sexual activities comes with various caveats:
+People rarely engage in one sexual behaviour to the exclusion of all others.
+High-risk activities
+- Unprotected sexual intercourse: receptive or insertive, anal or vaginal.
+- Sharing unsterilised injecting equipment.
+- Being born to or breastfed by an untreated HIV-positive mother.
+- Receiving donated blood, organs or injections with unsterilised needles in countries with inadequate screening procedures.
+- Sharing uncleaned sex toys.
+Less risky activities
+- Penetrative sex with appropriate barrier (condom or female condom)
+- Receptive oral sex with a man (giving a blow job).
+- Sharing injecting equipment if properly sterilised.
+Occupational risks in invasive surgical and medical contexts.
+Laboratory work with superconcentrates of HIV.
+
+===== PAGE KEY: ttt  | TITLE: Three Main Group of ART =====
+#Three main groups of antiretroviral
+- Nucleoside reverse transcriptase inhibitors 158 (NRTIs),
+- Non-nucleoside reverse transcriptase inhibitors (NNRTIs) and
+- Protease inhibitors (PIs).
+Each group of drugs works at a different point in the life cycle of the virus within the cell.
+The decision to begin antiretroviral therapy in an HIV-infected person is determined by that person’s clinical, virologic, and immunologic condition.
+Antiretroviral therapy often is changed when an HIV-infected child or adult experiences clinical, virologic, or immunologic failure. Among the numerous barriers to treatment are cost, time commitment, compliance, and home environment.
+
+===== PAGE KEY: vacc  | TITLE: The Flu Vaccine =====
+#The flu vaccine
+Vaccines against flu viruses have been available for many years.
+ Because flu viruses are so susceptible to change, the make-up of the vaccine is reviewed each year to include the most prevalent strains.
+It is recommended that people in high-risk groups, including people with HIV, be vaccinated.
+ The vaccine only provides protection for about a year, so it is important you are revaccinated each year.
+The seasonal flu vaccine doesn’t have ‘live’ virus in it, so it is safe for use in people with HIV.
+
+===== PAGE KEY: whatishiv  | TITLE: HIV Overview =====
+#Latest guidance
+HIV is now a manageable long-term condition. People on effective treatment live long, healthy lives.
+Test and treat: anyone who tests HIV-positive starts antiretroviral therapy (ART) the same day, whatever their CD4 count.
+U = U — Undetectable = Untransmittable. A person on ART whose viral load stays undetectable cannot pass HIV to sexual partners. This is global scientific consensus (WHO, CDC, UNAIDS).
+HIV stands for human immunodeficiency virus. Originally isolated in Paris in May 1983 by Luc Montagnier.
+ HIV belongs to a group of viruses called retroviruses.
+Viruses copy their genetic material into the genetic material of human cells, meaning infected cells stay infected for the rest of their lives. Viruses cannot replicate outside a living cell
+
+===== PAGE KEY: whattodo  | TITLE: What next??? =====
+img: 
+#I’m pregnant — what do I do now?
+Finding out you’re pregnant can be scary, but try to stay calm.
+ You’re going to be okay, and there are people who can help you.
+- If you’re pregnant you have 3 options:
+- Parenting — giving birth and raising the child.
+- Abortion — ending the pregnancy.
+- Adoption — giving birth and giving the child to someone else, forever.
+If you think you might choose parenting or adoption, you need prenatal care to make sure you stay healthy during the pregnancy.
+ If you’re thinking about getting an abortion visit a health facility as soon as possible.
+ Abortion is safe when done correctly with a qualified health practitioner and in an equipped hospital, but there are more risks the longer you wait.
+Whatever you decide to do, go to a known health facility right away so they can help you stay healthy.
+You can also get information and health care from other family planning centers or comprehensive care clinics.
+ Be careful when looking for a reliable health center — there are fake clinics.
+Talking with someone about your feelings can be helpful, too. If you can, it’s a really good idea to talk with your parents about it — chances are they care about you and want to help you.
+You could also talk with another family member, boyfriend/girlfriend, friend, school counselor, religious advisor, or another adult that you trust. Choose someone who will listen to you, be supportive, respect your privacy, and won’t be judgmental or try to pressure you into anything.
+- If you’re having a hard time finding someone in your life to talk with, Contact our online counselor through our talk to a counselor button. You can also call 1190 hotline number where you can talk about your pregnancy and get support, no matter how you’re feeling.
+- No one should pressure you into making any decision about your pregnancy, no matter what. Only you know what’s right for you.
+#How do I tell my parents that I’m pregnant?
+-  Even though it might feel scary, talking with your parents can really help. They can talk through your options with you, and make sure you get the health care you need.
+-  Many people worry that their parents will freak out, but that’s not always what happens.  If you can, try to be open and honest. Start by telling your parents that you trust them and need their help and support.  Most of the time, they just want to make sure you’re healthy and safe. If your parents do get upset, they may just need some time to calm down. 
+- Sometimes parents are shocked or angry, and sometimes they're understanding.  There’s really no way to know how your parents will feel unless you talk with them about it.  It might help to find a time when you can talk in private and there are no distractions.  If you’re feeling really nervous or scared to talk to your parents, you can always ask a friend or other family member to be there with you during the conversation. That way, you’ll have support no matter what happens.
+-  If you really feel like you can’t talk to your parents, try talking to another adult who you trust (like an aunt or uncle, grandparent, older sibling, school nurse, or counselor).  If you’re worried that telling your parents you’re pregnant may put you in danger, tell a teacher, nurse or doctor, or other adult you trust.
+
+===== PAGE KEY: yt  | TITLE: Sexual Relationship =====
+#The Basics
+People with HIV can engage in sexual intercourse. However, it is true that HIV can be passed from one person to another through sexual intercourse. Protection should be used to prevent transmission of HIV and to prevent contracting or spreading other sexually transmitted infections. If your partner is not ready for sex, then they have the right to refuse sexual acts. 
+#Definitions
+#Sexual Intercourse
+Sexual intercourse is a physical act that involves close contact with genitals. Most often, people think of sexual intercourse as a male’s penis entering a female’s vagina. During this contact, vaginal fluids and semen are exchanged. These fluids can carry sexually transmitted infections (gonorrhea, chlamydia, genital warts, etc.) and the HIV virus. Other forms of sexual intercourse (listed below) can also result in sexually transmitted infections: 
+- Oral Sex: the sexual act of stimulating the genitalia of a partner with the mouth.
+-  Anal Sex: the sexual act of inserting the male’s penis into the anus.
+#What is a sexually transmitted infection?
+A sexually transmitted infection is an infection that is passed from one person to another through sexual behaviors. Sexually transmitted infections can cause some physical symptoms such as rashes, boils, discharge from genitalia, or aches. These infections can also be “invisible” and not show any signs of infection. Protection during sexual behaviors, such as using condoms, can protect you from contracting such infections.
+#Human Sexual Response Cycle:
+When humans are engaged in sexual activity, their body goes through several stages, called the Human Sexual Response Cycle: 
+- Excitement: Increase in heart rate and breathing
+-  Arousal: genitals may swell. For males, the penis will become erect, and for females the genitals may become sensitive and lubricated.
+- Plateau Phase: Occurs right before orgasm.
+- Orgasmic Phase: Contraction of lower pelvic muscles and a release of fluids from the genitals. Males release semen at this time, which is called ejaculation.
+- Resolution Phase: Muscles begin to relax, the heart rate lowers, and the penis returns to a normal state of being flaccid and non-erect.
+#Transmission
+#What are the risks of having sex?
+Consequences of having sex may include: 
+- Pregnancy
+-  Sexually Transmitted infections
+- Increase in HIV infection
+-  Dropping out of school
+-  Having a bad image
+#Can I give someone else HIV? If so, how? 
+If you have HIV, you can give your partner HIV through unprotected sexual intercourse. This means you do not use a condom to prevent the exchange of fluids. The HIV virus is transmitted in bodily fluids.
+Take your medications according to your prescription regimen. By taking your medicines and remaining healthy, there is less HIV virus in your fluids and it will be less likely that you pass the virus to your partner.
+#How do I know if my partner has a sexually transmitted infection? 
+Some sexually transmitted infections do not show any symptoms, so it is difficult to tell if people have infections. You can go to a clinic to get tested for sexually transmitted infections. If you have questions about where to get tested, please contact your counselor. 
+If you and your partner have not been tested, you should always use protection, such as condoms, to prevent transmission of “invisible” sexually transmitted infections. 
+#Why do people use condoms?
+Condoms are a tool used to protect yourself and your partner during sexual intercourse. A condom is usually made of rubber and is made to cover the male penis, preventing the transmission of fluids from one partner to the other during sexual intercourse.
+ Condoms must be used appropriately in order to be effective. If you are unsure of how to use a condom, please see your clinical officer or counselor at the clinic for an instruction.
+#When do you use a condom? 
+You should use a condom or make sure your partner puts on a condom, appropriately, before ANY contact with his or her genitals. The penis should be erect before applying the condom, to prevent any slippage of the condom.
+#How do you use a condom?
+*IMPORTANT: The condom’s prevention of transmission of fluids is only successful if it is used appropriately. If there are any tears in the condom, then it is not going to prevent or block any fluids from your partner, and provides no protection. 
+- Inspect the condom wrapper to ensure there are no tears in either the condom or the condom wrapper, and that the condom is not expired.
+-  Open the condom by tearing the edge of the condom wrapper.
+-  Determine which way the condom is rolled. This can be done easily by feeling with your fingers which way the condom unrolls. 
+-  Pinch the reservoir tip so enough space is left at the tip of the penis and roll the condom with your forefinger and thumb down the shaft of the erect penis.
+-  During sexual intercourse, be keen on any rips or tears in the condom. If you notice a rip or tear, immediately withdraw the penis from your partner, remove the spoilt condom and put a new one on the penis.
+- Immediately after ejaculation, withdraw the penis and remove the condom by grabbing the end of the condom, ensuring that the fluid inside does not spill out. To prevent the condom contents from spilling, you can tie a knot at the end of the condom before disposal into the trash.
+If you plan to have sex, always ensure your partner is willing to engage in sexual intercourse. You should only engage in sexual acts with someone you KNOW and TRUSTs. There are many emotions that are involved with sex and it is a topic and act that should not be taken lightly. 
+#For more information:
+#Hadithi Research Group
+ HADITHI Principal Investigators:Rachel C. Vreeman - Pediatrician  rvreeman@iu.edu Winstone Nyandiko - Pediatrician nyandikom@yahoo.com  HADITHI Study CoordinatorsCarole McAteer hadithistudy@gmail.com Josephine Aluoch hadithistudy@gmail.com 
+
+===== PAGE KEY: ytt  | TITLE: Mental Health Issues =====
+Mental health: psychological or emotional well-being of an individual. 
+Four main aspects of mental health. 
+- An appropriate awareness of self
+- An awareness of one’s abilities 
+- An ability to work productively 
+- The ability to contribute to their communities
+Mental illness is any disease or condition affecting the brain that significantly influences or disrupts a person's thinking, feeling, mood, ability to relate to others and daily functioning. It is persistent. 
+Temporary distress or changes in function in response to a stressful event is not considered a mental illness.
+States between mental health and mental illness are broad.
+#ALHIV and Mental Health
+Typical emotional changes occur during adolescence 
+ALHIV must deal with a number of other stressors such as 
+- The potential loss of loved ones
+- Stigma and isolation 
+- Gender-based violence 
+- Taking care of oneself and or others in the presence of a chronic illness.
+This can make them susceptible to mental illness and substance abuse
+#Common Mental Illnesses
+- Mood disorders
+- Substance use disorders
+- Anxiety disorders
+- Psychotic disorders
+#Depression
+Symptoms: >2 weeks
+- Depressed mood
+- Loss of interest or pleasure
+- Weight loss
+- Low appetite
+- Insomnia or hypersomnia
+- Fatigue or loss of energy
+- Worthlessness or excessive guilt
+- Poor concentration or indecisiveness
+- Thoughts of death or suicidal ideations
+#Bipolar Disorder
+Mania: 1 wk of elevated, expansive or irritable mood + 3 of the following: 
+- Reduced need for sleep
+- Pressure of speech
+- Racing thoughts
+- Inflated self esteem
+- Grandiosity
+- Increased goal directed activities
+- Excess involvement in pleasurable activities
+#Anxiety Disorders
+- Panic disorder with or without agoraphobia
+- Agoraphobia with or without panic disorder
+- Specific phobia
+- Social phobia
+- Obsessive compulsive disorder
+- PTSD
+- Acute stress disorder
+- Generalized anxiety disorder is associated with  Easily fatigued Restlessness Difficulty concentrating Irritability Muscle Tension Sleep Disturbance 
+#Psychotic Disorders
+- Delusion
+- Hallucinations
+- Disorganized thinking
+- Grossly disorganized motor behavior, including catatonia
+- Negative symptoms- eg avolition,diminished emotional expression
+#Psychiatric Emergency: Suicide
+- One among the top ten causes of death worldwide.
+- One of the 3 leading causes of death in the age group 15-35 years.
+- 90% may have some form of psychiatric disorder (Rich et al, 1986)
+- History of suicidal attempts
+- History of other deliberate self-harm
+- Family history of suicide
+#Suicide: What to do?
+How to manage a suicidal or self-harm client 
+- Evaluate whether the person has attempted a medically serious act of self-harm or suicide.  Ask about past self-harm attempts. Look for signs of poisoning, intoxication, and self-injury. Closely monitor the person to prevent further self-harm Do not leave the person alone or unsupervised. 
+- Evaluate if there is an imminent risk of self-harm or suicide. Ask about thoughts or plans to commit suicide or self-harm. Look for signs of severe emotional distress, hopelessness, agitation, uncommunicative behaviour, or social isolation. 
+- If risk of suicide or self-harm is imminent: Remove access to means of self-harm. Create secure, supportive environment, ensure person is not left alone. Take client to a psychiatric hospital, w/ company (family, support person, or a health worker).

@@ -1,0 +1,870 @@
+
+===== PAGE KEY: defintr  | TITLE: CD4 Cell =====
+#ANTIRETROVIRAL THERAPY (ART)
+These are Medications used to treat HIV reduce the ability of the virus to replicate (or reproduce) within the body. When HIV is unable to replicate, damage to the immune system and other vital organs is reduced, usually leading to improved health.
+Patients receiving antiretroviral therapy are less susceptible to opportunistic infections, malignancies, and other illnesses. Many patients live longer as a consequence of antiretroviral therapy.
+
+===== PAGE KEY: df  | TITLE: What to Do? =====
+#What should I do if I forget to take my HIV medicines?
+Unless your health care provider tells you otherwise, take the medicine you missed as soon as you realize you skipped it. But if it’s almost time for the next dose of the medicine, don’t take the missed dose and instead just continue on your regular medication schedule. Don’t take a double dose of a medicine to make up for a missed dose.
+
+===== PAGE KEY: drug  | TITLE: Substance and Drug Abuse =====
+img: 
+#Drug misuse/drug abuse
+- Drugs- chemical agents which are used for cure and prevention of disease
+- Misuse – nonmedical use of drug for wrong purpose 
+- Abuse – misused of drug 
+Common drugs of addicts; 
+- Opium/opiates – all narcotics drugs
+- Cannabis/ marijuana
+- Other drugs like diazepam and marungi
+The route for their administration; Opium; 
+- Central nervous system stimulant with effect similar to amphetamine
+- Administration; smoke, sniff or injection 
+- Effect of opium; Excitement, Dilation of pupils, Dizziness and tremors High dose cause; Confusion, Seizures, Cardiac and respiratory arrest  Long term use may cause; Development of psychiatric symptom; paranoid, visual and tactile hallucination 
+#Why People Take Drugs
+- To induce sleep
+- Relive pain, relieve boredom
+- In times of trouble 
+- Economic problems
+- Exam failure
+- When bored/idle or to have fun
+- To lessen pain
+- They make you feel good
+- To help one work better
+- For religious reason
+- They help people feel relaxed
+- It’s part of culture
+#Drugs and substance abuse process
+img: 
+- 
+Heroin;  Semi synthetic opium, the group includes; Diamorphine and Diacetylmorphine  Administration; IV, sniffing and inhalation  Effects; powerful euphoria, rapid development of dependence after few days of regular use  
+- Cannabis/marijuana;  Administration; smoking leaves, drinking boiled leaves and seeds, chewing leaves Effects; feeling of being important, perceptional distortation, poor judgment and concentration, violent which can be followed by suicidal ideas 
+- Khat/marungi;  Administration; oral chewing  Effects; at early stage mild euphoria and decreases appetite, at latest phase teeth decay, constipation, depression or paranoid idea,impotence 
+- Tobacco;  Derive from leaves of a plant called tabacci nicitano  It active ingredient is nicotine which cause addiction  Effects; dizziness, increased BP, loss of appetite  Administration; smoking, chewing  
+img: 
+#Presenting compliant of drug abuse;
+- Family may request help before the patient due to irritability or abstinence from home
+- Depressed mood, nervousness or insomnia 
+- Direct request for prescription of narcotics or other drugs
+- Request for help to withdraw or stability of their drug use 
+- State of intoxication or withdrawal with physical complication of drug use e.g. abscesses or thromboses 
+#Signs of drug withdrawal;
+- Opiod; nausea, sweating and hallucinations 
+- Sedatives; anxiety, tremors and hallucination
+- Stimulants; depression and moodiness 
+#Effects of drug abuse on the body; Heroin and opiod;
+- Start with the sense of well being, follow by false perceptions and delusion
+- Cold skin, convulsion and coma due to over dose 
+- Slow and shallow breathing or even complete breathing stop
+- Premature delivery, stillbirth and addicted infants
+- Transmission of infection from person to person e.g. hepatitis, HIV and etc through blood contact
+- Bacterial infection on injection sites 
+- Drugs depression 
+- Loss of libido (interest in sex) 
+- Headache and general malaise
+#Short term effects of marijuana;
+- Dry mouth and throat 
+- Impair concentration and performance 
+- Increase heart rate which worsen with preexisting heart disease
+- Decrease social inhibitions 
+- Person present with paranoid, delusion and hallucinations
+#Long term effects of marijuana; 
+- Decreased testosterone level in men and lower sperm count/infertility 
+- Increase testosterone level in women and increased risk of infertility 
+- Reduce libido 
+- Blocks message going to brain and alters perception, follow by hallucination and delusions
+- Increased drug intoxication
+- Risk cancer 
+#Effects of nicotine;
+- Increased heart and breathing rate 
+- Dizziness and raise blood pressure 
+- Makes body needs more oxygen than normal which lead to heart burden 
+- Cause low birth weight and stillbirth 
+#Effect of Miraa
+- Lack of sleep (insomnia)
+- Poor concentration
+- False feeling of well-being
+- Browning of teeth and foul breath
+- Low birth weight, birth defects
+- Impotence
+- Mouth sores and ulcers, tongue
+- Nerve damage leading to numbness
+- Risk of cancers – mouth, lung, throat
+- Depression
+#Diagnostic features;
+- Physical Injuries while intoxicated, physiological harm/symptom of mental disorder due to drug 
+- Harmful social consequences like loss of job, severe family problems or criminality
+- Habitual or harmful chaotic drugs use
+- Difficulty controlling drug use 
+- Strong desire to use drugs 
+- Tolerance( take heavy dose with no effects) 
+- Withdrawal signs, anxiety, tremors etc 
+Differential diagnosis; 
+- Alcohol abuse 
+- Symptoms of anxiety or depression may occur with heavy use 
+- Depression 
+- Generalized anxiety 
+- Psychotic disorders
+- Delirium 
+Information for family and patient; 
+- Drug misuses is a chronic, relapsing problem, and controlling or stopping, use often needs several attempts from close relatives and government organs, relapse is always very common
+-  Ceasing or reducing drug use will bring psychological, social and physical benefits
+-  Using some drugs during pregnancy risks harming the baby 
+-  For IV drugs users there is high risk of infection with diseases of blood contact
+Medication; 
+Referral; all case of drug abuse should be referred to the specialist
+
+===== PAGE KEY: druginter  | TITLE: Drug Interaction =====
+Many people with HIV need to take medicines to treat other health conditions
+ Taking two or more different drugs together may result in an alteration in the effectiveness or in the side-effects of one or more of the drugs.
+ Some drugs should NOT be taken in combination with certain antiretrovirals.
+It is important that anyone prescribing or dispensing medication knows about all other medicines and drugs that you are taking – this includes those prescribed by another doctor, over-the-counter medicines (including inhalers and nasal sprays), herbal and alternative treatments, and recreational drugs.
+Some drug combinations are contraindicated – which means you definitely should not take them together.
+ Reasons for this include serious side-effects, or interactions which make one or both drugs ineffective or toxic.
+Other interactions are less dangerous, but still need to be taken seriously.
+ Levels of one or both drugs in your blood may be affected and you may need to change the doses you take.
+You also need to tell your HIV doctor about any drugs you buy over the counter (at a chemist, for example) or from the internet.
+ Some anti-HIV drugs can interact with antihistamines, asthma inhalers or nasal sprays (which contain steroids), treatments for indigestion and statins (drugs that are used to control cholesterol, or lipid levels).
+ These treatments can either be prescribed or bought over the counter at high-street chemists (community pharmacies).
+If you are thinking of using any other drugs, you should tell your HIV doctor or pharmacist so they can check for possible interactions and recommend the most suitable treatment.
+ Or, when you are buying them, you may wish to tell the pharmacist about the anti-HIV drugs you are taking.
+ Community pharmacies often have a private area for consultations, or you could write the name of the drugs down and hand them to him or her.
+ If you do need to mention the name of your anti-HIV drugs, it’s very unlikely that anyone around you will recognise what they are used to treat.
+In many cases, the interactions are theoretical, or seen in test-tube studies, and more information is needed about the likelihood of a real-life effect.
+ For example, test-tube studies have indicated that African potato and 
+Sutherlandia may reduce levels of PIs, NNRTIs and maraviroc (Celsentri) in the body.
+Interactions can also happen with medicines that are not taken by mouth.
+You can safely take some painkillers, such as paracetamol, when on anti-HIV drugs, unless there are other medical reasons why you shouldn’t take this sort of drug.
+ Check with your HIV doctor or pharmacist about the best type of painkiller for you.
+
+===== PAGE KEY: drugtr  | TITLE: All about keeping Fit =====
+Being active is good for you in lots of ways – it can help to build your muscles, keep your bones strong, burn fat and keep your heart healthy.
+Some people who are living with HIV experience loss of muscle mass and strength, so exercise can help prevent this.
+You might get your exercise by taking part in a sport, or going to the gym, but everyday activities like dancing, walking and gardening can all help get you moving. If you want to do more exercise, feel fitter, have more stamina, more flexibility, or lose weight, there are three types of exercise to think about. These include: 
+- Cardio or aerobic exercise – 
+this increases your heart rate to help blood flow right around your body, delivering oxygen to your muscles and keeping your heart and lungs healthy. Try running, swimming, dancing or cycling
+- Resistance training –
+ this increases the strength of your muscles by lifting weights for a period of time and then repeating. Even lifting a tin of beans will do!
+- Flexibility training – 
+this stretches different parts of your body to strengthen your muscles and joints. Try stretching before and after any exercise you do, or focus on flexibility with an activity like yoga.
+#Staying happy and fulfilling your potential
+Taking care of yourself is not just about your physical health, but looking after your mental and emotional health too.
+Finding out you have HIV can be a shock, and it may take you some time to adjust. Support from your friends and family, or other people living with HIV, can really help when you are finding things difficult.
+Once you begin coming to terms with HIV, it’s a good idea to think about the rest of your life, i.e.
+- What are your goals?
+-  What’s important to you?
+ Maybe you want to study, have a family, travel or change career – HIV shouldn’t stop you doing any of these things!
+#What else can I do to take care of myself?
+ Many of the things we do to look after ourselves are common sense. Try to get plenty of rest and sleep.
+If you smoke, try to stop it isn’t always easy, but there is support available to help you.
+ If you are concerned about your alcohol or drug use , talk to a healthcare professional for advice and support.
+It’s also important to think about any other health conditions you have; particularly as we get older, we’re more likely to experience other health problems.
+#Exercising
+Youths should be encouraged to do a lot of exercising.
+ They do not have to belong to any gym, but they can exercise at home as individuals or start their own club at their own time.
+Time can be set aside on some days for exercising during support group days, an hour will be enough.
+ When you exercise you also produce more blood cells, which means a better immune system.
+Swimming is very good exercise and you can go trying it.
+Dancing is a great way to get exercise without feeling it. Put on the radio or play a CD that the group members like.
+ When you dance you will also feel “happy” and your body will benefit from the extra oxygen it will receive.
+Oxygen also helps kill infections.
+ Exercise is also a good way to help reduce mental stress and anxiety.
+ Too much stress and anxiety can cause a breakdown of the immune system.
+ Yoga and other stretch exercises are also excellent methods to de-stress the mind and strengthen the body.
+
+===== PAGE KEY: educa  | TITLE: Peer MentorShip =====
+#Who is a Peer?
+A peer is someone who belongs to the same social group as another person, meaning that they share at least one important social or demographic characteristic such as age, education, occupation, or risk behavior.
+#Peer Mentor Means?
+- Understanding what your Peers go through and knowing first hand where it pinches the most. (Living the Experience).
+- It also means being non judgmental no matter the situation.
+- Being a link/ bridge between the peers and the health care providers/service
+- Always using your story or past experience to encourage your fellow peers.
+- Being able to randomly motivate your fellow peers.
+#What is Peer Mentorship/ Education?
+This is the process by which a well-trained and motivated individuals lead an organized educational and skills-building activities with their peers to support and improve young people’s health and well-being.
+img: 
+#Activities in peer mentorship
+Peer Mentorship activities are participatory and generally take place over an extended period, as opposed to a one-time event. Venues for peer mentorship/ education include Schools, Health centers, parks, bars, social clubs, churches, work settings, and markets—any place where young people spend time together.
+- Qualities should a good Peer Mentor Portray
+- Good listening skills
+- Caring and supportive
+- Confident
+- Reliable and available
+- Willing to invest the time and energy /share experience.
+- Demonstrate empathy but not sympathy
+- Serve as role model and source of trusted information
+- Good social skills, interpersonal and n communication 
+#Effective strategies of conducting Peer mentorship forums/ session.
+- Have Correct and Factual Information
+- Prepare adequate resources for conducting different activities.
+- Always reach out to your peers first. 
+- Be creative and SMART
+#Peer Mentorship can be delivered through??
+- One on one sessions
+- Facilitating group sessions
+- Establishing a connection or rapport with your fellow peers.
+- Organizing Community/Institution forums
+- Health talk sessions
+- Support group discussion
+#Benefits of peer Mentorship/ education (Adamchak 2006) shows that this approach can:
+- Positively influence young people’s attitudes and knowledge about reproductive health and HIV
+- Influence youth to decrease their number of sexual partners and increase their use of condoms and other contraception
+- Reach groups of youth with education and health materials, such as brochures and condoms
+- Increase the use of sexual and reproductive health services by vulnerable young people
+- Improve community norms about youth and sexual behavior
+#How to conduct An educative Fun day activity
+- Introduction – What to consider (Creating rapport, Make efforts of knowing at least each person 
+- Engage the participants/ Make it fun and short
+- Disseminate and educate them as you proceed
+- User energizers in between the sessions
+- Emphasize on the theme
+- Acknowledge the host and let the close the session
+
+===== PAGE KEY: exe  | TITLE: General Relationship =====
+#How can I get good friends?
+At times, it is not easy to get good friends, but we have to be keen when we are choosing friends. We should choose friends who have respect, are well-behaved, and are mindful about our well-being.
+#Read the story and answer the questions:
+Peter had two friends when he started school. One was called Tom, and the other called James. Tom liked to play a lot and he did not want to read, he was not respectful to the elderly and did not even help his mother with chores. James, on the other hand, was very hard-working, obedient, respectful and liked to help his mother when she was working at home. Tom would tell Peter to do bad things like to steal mangoes in their neighbor’s shamba. This was not a good thing to do. Peter noticed that Tom was not a good friend, because he was telling him to do bad things. Peter found that James helped him with school and was always giving him good advice.
+#Discusion
+- Who is the better friend, Tom or James?
+-  What qualities make a good friend?
+-  What qualities make a bad friend?
+-  What qualities have you noticed in your friends?
+#Friends and secrets
+At times, we would like to share secrets. Friends can keep our secrets and help us through our problems.
+#Read the story and answer the questions:
+Peter had a big secret that only his parents and his sister knew. He had been told not to share with other people because they would say bad things to him that could hurt him. Over time, Peter struggled with some issues related to the big secret. He felt the need to share with James, who was one of his very good friends. One day, Peter shared with James the big secret. He did not know how he would respond, but James stood out to be a great support for Peter. 
+#Discusion
+- What makes you trust a friend?
+- Can you think of a time when you told a friend a secret?
+- Why do we tell friends our secrets?
+#Relationships with parents/ Caregivers
+#Why is it difficult to be friends with my parents?
+Good relationships with your caregivers are very important. At times, the relationship can be affected when you disagree on:  way of dressing the friends you have how you perform in your studies how you are taking your medication  More often your parents/guardians have your best interests in mind, and they want you to obey them in order for you not to get into problems. Shouting back when you disagree with them or insulting them only worsens the situation.
+#What can I do to improve my relationship with my parents?
+Communicating with kindness and respecting your parents will enhance your relationship. However hard your parents push your buttons, remember that responding calmly and with self restraint will show them they can trust you and that you are growing into an adult. It can be difficult for parents to adjust to their children growing older and needing independence from their guidance and control.
+#What is a Relationship?
+A relationship is a connection between two or more people. There are many different types of relationships. Relationships can involve friends, peers, parents and other family members, and boyfriends/girlfriends. 
+#Relationships with friends
+A friend is someone very close to you, who you can trust to tell about yourself. We can always look up to them for good advice and support when in need. A good friend may have the following qualities: 
+- Trustworthy: can keep secrets
+- Honest: don’t lie to you or others
+-  Accepting: won’t judge you if you have a different opinion than them Supportive: will be there for you during rough times
+-  Forgiving: will forgive you if you do something bad 
+#For more information:
+#Hadithi Research Group
+ HADITHI Principal Investigators:Rachel C. Vreeman - Pediatrician  rvreeman@iu.edu Winstone Nyandiko - Pediatrician nyandikom@yahoo.com  HADITHI Study CoordinatorsCarole McAteer hadithistudy@gmail.com Josephine Aluoch hadithistudy@gmail.com 
+
+===== PAGE KEY: facilitation  | TITLE: Facilitation Skills =====
+The facilitator’s skills are key to the success of the session and its usefulness to a discussion group. The facilitator should feel comfortable discussing sensitive issue related to sexuality and should be careful not to project values or place judgment on the thoughts, opinions and experiences of group participants. Most importantly, the facilitator needs basic skills in good listening. Effective listening skills show participants that the facilitator is interested, attentive and respectful.
+ There are several elements of good listening skills, including:
+- Body language – posture, facial expressions, nodding of the head and sounds that encourage a participant to continue speaking.
+- Reflecting – the facilitator can, in his or her own words, repeat back to the group the key point that a participant has made.
+- Questioning – if asked appropriately, questions can be used to encourage a participant to elaborate or expand upon what he or she has just said.
+- Summarizing – the facilitator can summarize key points made by participants and use this summary as a natural transition to another topic.
+#HELPING LEARNERS TO HELP THEMSELVES
+As a facilitator there are many ways you can help your learners. You can:
+- Share your knowledge.  To help themselves, learners need knowledge. Many health problems can be prevented if people know how. But remember you do not have to have all of the answers to help people. It is fine to admit when you do not know something. The people you work with will be glad for your honesty.
+- Treat students with respect. Each learner should be treated as someone who is capable of understanding his or her own health problems and of making good decisions them. Never blame the learners for their problem or for past decisions they have made.
+- Keep health problems private. Health problems should not be discussed where others can hear. Never tell out a problem your learner has unless he gives you the OK.
+- Remember that listening is more important than giving advice.  Learners often need someone who will listen to their problems without judgment. By listening, you let them know you care and that he or she is important. And as they get a chance to talk they will find out that they have some of the answers to the problem.
+- Keep health problems private. Health problems should not be discussed where others can hear. Never tell out a problem your learner has unless he gives you the OK.
+- Remember that listening is more important than giving advice. Learners often need someone who will listen to their problems without judgment. By listening, you let them know you care and that he or she is important. And as they get a chance to talk they will find out that they have some of the answers to the problem.
+- Solve the problem with others, not for them. Even when a learner’s problem are very large and cannot be solved completely, they usually have some choices that can be made. As a facilitator, you can help them realize they have choices, help them find information they need to make their own decisions.
+- Learn from the people you help. Learning how others solve their own problems can help you to better help others (and sometimes yourself too) 
+
+===== PAGE KEY: fact  | TITLE: ART Overview =====
+#Current first-line treatment
+The preferred first-line regimen is TLD — one pill, once a day, combining Tenofovir (TDF), Lamivudine (3TC) and Dolutegravir (DTG).
+It is recommended by WHO and Kenya's NASCOP guidelines for adults, adolescents, pregnant women and people with hepatitis B.
+ART is started the same day as diagnosis whenever possible. Dolutegravir-based ART keeps the virus suppressed in over 95% of people who stay in care.
+#ART
+Antiretroviral therapy (ART): it is giving ARV drugs in the correct combination, with adherence support.
+ The powerful combination of three different antiretroviral drugs is called ART regimen.
+ This is the standard of good therapy and has the greatest benefit for the longest time.
+ ARV means “Antiretroviral” drugs.
+ ART means “Antiretroviral therapy”.
+ It is a combination of at least three ARV drugs however, on many occasions ARV and ART may be used interchangeably. 
+#Key Facts
+- Many antiretroviral drugs are available for the treatment of HIV infection. However, none of these medications can cure HIV.
+- Medications used to treat HIV reduce the ability of the virus to replicate (or reproduce) within the body.
+- When HIV is unable to replicate, damage to the immune system and other vital organs is reduced, usually leading to improved health.
+- Patients receiving antiretroviral therapy are less susceptible to opportunistic infections, malignancies, and other illnesses.
+- Many patients live longer as a consequence of antiretroviral therapy.
+- One goal of antiretroviral therapy is to reduce the patient’s virus load, preferably to below levels that can be detected with available tests.
+- There are three main groups of antiretroviral drugs: nucleoside reverse transcriptase inhibitors (NRTIs) non-nucleoside reverse transcriptase inhibitors (NNRTIs) protease inhibitors (PIs). Each group of drugs works at a different point in the life cycle of the virus within the cell.
+- The decision to begin antiretroviral therapy in an HIV-infected person is determined by that person’s clinical, virologic, and immunologic condition.
+- Antiretroviral therapy often is changed when an HIV-infected child or adult experiences clinical, virologic, or immunologic failure.
+- Among the numerous barriers to treatment are cost, time commitment, compliance, and home environment. 
+
+===== PAGE KEY: family  | TITLE: FAMILY PLANNING and CONTRACEPTIVES =====
+- What is family planning? This is basically planning your family. In other words having a child when you want it, and a family size that you want. Having a child need not be an accident, it should be a decision.
+- What family planning methods are available? There are natural methods and contraceptive methods. Healthcare workers advocate for contraceptive use because over several years they have proved to be more reliable. The natural methods are prone to human error and can result in unplanned pregnancy. Contraceptives include   IUCDs Implants   Injectable Oral pills  Natural methods include: Safe days, withdrawal NOTE :  Family planning does not protect against HIV and STIs. If you develop complications with one method you should try another methods. Do not write them off. Unwanted pregnancy can change your life for the worse.  
+- Why should I or my girlfriend take up a family planning method? Unplanned or unwanted pregnancies can seriously hinder personal growth, result in medical complication, and cause family and relationship conflict. Sex is meant to be enjoyed. Family planning allows individuals to be free of the stress of the possibility of an unplanned/unwanted pregnancy. While adolescents are usually sexually mature, they are often not emotionally, psychologically and economically ready to be parents/couples.  Adolescent girls are prone to having premature babies, malnourished babies, the immaturity of the pelvis system can lead to birth complications including fistula to the girl and birth asphyxia in the child. A girls education and job prospects can be stalled due to an unplanned pregnancy. A boys future too can be affected including stopping schooling, unplanned and unwanted marriage, disfranchisation from premature economic responsibilities among others. 
+#WHAT DO I NEED TO KNOW ABOUT FAMILY PLANNING?
+If you have vaginal sex and you don’t want to get pregnant, use family planning. Family planning can have other benefits, too (like helping with PMS and acne).
+- You can get pregnant anytime you have penis-in-vagina (AKA vaginal) sex, including the very first time you have sex. So if you have vaginal sex — or think you might sometime soon — and you don’t want to get pregnant, use family planning method.
+- There are lots of different kinds of family planning. Some work better than others. But using any type of family planning is better than using nothing at all. People who have vaginal sex without family planning have an 85% chance of getting pregnant within a year
+- Preventing pregnancy isn’t the only reason people use family planning — it can have lots of other benefits, too.  Some kinds of hormonal birth control (like the pill, patch, implant, and the hormonal IUD) can do things like ease cramps and PMS, and make your periods lighter.  The pill, patch, and ring can also help with acne and make your periods more regular. Almost everybody uses family planning at some point.
+- Bottom line: if there’s a chance you’ll be doing any sexy stuff that can lead to pregnancy, family planning is your friend. You can ask your doctor about getting on family planning, whatever your reason.
+How do I get Family planning?
+You can get some types of family planning, like condoms, at chemist or convenience hospitals/shops.
+ Anybody can buy condoms, and you don’t need to show your ID.
+ Sometimes you can get free condoms from community clinics, your school nurse.
+Condoms help protect you from STDs, too! So it’s good to use condoms even if you’re on another method of birth control.
+You need to see a doctor or nurse to know which contraceptives are available in your country.
+ These are IUD, implant, shot, pill, patch, or ring.
+ These are often available in most health facilities including comprehensive care clinics (Check directory)
+What do I need before the doctors do before giving me the contraceptive?
+ Usually you don’t need a full examination to get family planning.
+ But what happens at your appointment depends on your personal health, the doctor’s policies, and the kind of family planning you want.
+ Here’s some stuff you can expect: 
+- Your nurse or doctor will talk with you about your medical history (ask you questions about your health in the past) and check your blood pressure. Sometimes they do a pelvic exam, but they usually don’t need to.
+- The nurse or doctor may ask about your sex life: whether you’ve ever had sex, what kinds of sex, how many people you’ve had sex with, if you’ve used birth control before, etc. It’s super important to be honest so they can give you the best possible care. Doctors aren’t there to judge and they’ve heard it all before — they just want to help you stay healthy.
+- You can also ask any questions you have about family planning. You might want to talk with your doctor about the IUD or implant — these types of birth control are the easiest to use and work the best.
+- If you get the IUD or implant, your doctor will give it to you in the health center. If you choose the pill, patch , you’ll probably get a prescription. You can use the prescription to pick up your birth control at a drugstore or pharmacy. Some doctors might even have pills or patches in the health center to give to you at your appointment.
+Can the doctor tell your parents/ partner that I am on a family planning method?
+- Not in many countries. This is often a confidential matter and the doctor will only do this if you request them to.
+- However, in some countries/hospitals the policies might be different. Ask your doctor about this during your visit
+- Either way, talking to your parents and your partner about birth control can be really helpful.
+What if I mess up or don’t use family planning? 
+- If you make a mistake or have sex without using family planning/ contraceptives at all, don’t freak out — you still have a few days to try to prevent pregnancy by using emergency contraceptives.
+- EMERGENCY CONTRACEPTION is a kind of birth control that can help prevent pregnancy up to 5 days after unprotected sex. Emergency contraception means taking a “morning-after pill” or getting a copper IUD.
+- You can get some kinds of morning-after pills at the drugstore or at your local clinic without a prescription. But it’s important to take it as soon as possible after unprotected sex, or it won’t work as well.
+- Getting a copper IUD within 5 days after unprotected sex is the most effective kind of emergency contraception. But a doctor needs to put the IUD in, and sometimes it can be hard to get an appointment on short notice.
+
+===== PAGE KEY: furth  | TITLE: Further Help =====
+#For further help
+If you’re a teenager and a parent, there are ways to help yourself and your child.
+ Getting support from your family, friends and services in the community can help you cope with being a young parent:
+- See if there’s a way you can finish school if you haven’t already. This might mean studying at night while a partner, friend or parent minds your child.  In the long run, having an education will help with your chances of finding a job, and studying can help you to feel less lonely.
+- If you can stay with your parents while your child is young, this may help you deal with the pressures of caring for your child or coping financially.  Your parents might also be able to give you some support when you need it, and even share some tips from when you were a baby.
+- If you’re on your own or living away from your family, find out what sorts of financial support you can get .
+- Contact your local community centre about support groups for parents. These sorts of group can provide emotional support as well as information on child development and health care.
+- See if your local social worker can put you in touch with a counseling service. Counseling can help parents with their own issues as well as those associated with being a parent at a young age.
+- Speak to different experts that you come in contact with – such as your doctor, community health nurse or other experts associated with child care – to learn about creating the best home environment for your child.  They can also help you learn about topics such as nutrition, health and emotional development.
+
+===== PAGE KEY: gender  | TITLE: GENDER and GENDER IDENTITY =====
+There’s a lot more to being male, female, or any gender than the sex assigned at birth.
+Your biological or assigned sex does not always tell your complete story.
+What are the differences between sex, gender, and gender identity?
+It’s common for people to confuse sex, gender, and gender identity. But they’re actually all different things.
+- Sex is a label — male or female — that you’re assigned by a doctor at birth based on the genitals you’re born with and the chromosomes you have. It goes on your birth certificate.
+- Gender is much more complex: It’s a social and legal status, and set of expectations from society, about behaviors, characteristics, and thoughts.  Each culture has standards about the way that people should behave based on their gender.  This is also generally male or female. But instead of being about body parts, it’s more about how you’re expected to act, because of your sex.
+-  Gender identity is how you feel inside and how you express your gender through clothing, behavior, and personal appearance. It’s a feeling that begins very early in life.
+- This is the state of being either a male or a female, it’s more of a label that you’re given at birth based on medical factors, including your hormones, chromosomes, and genitals.  Most people are assigned male or female, and this is what’s put on their birth certificates.
+-  When someone’s sexual and reproductive anatomy doesn’t seem to fit the typical definitions of female or male, they may be described as intersex.
+-  Some people call the sex we’re assigned at birth “biological sex.” But this term doesn’t fully capture the complex biological, anatomical, and chromosomal variations that can occur. Having only two options (biological male or biological female) might not describe what’s going on inside a person’s body.
+-  Instead of saying “biological sex,” some people use the phrase “assigned male at birth” or “assigned female at birth.” This acknowledges that someone (often a doctor) is making a decision for someone else. The assignment of a biological sex may or may not align with what’s going on with a person’s body, how they feel, or how they identify. 
+The factors that determine our assigned sex begin as early as fertilization. 
+-  Each sperm has either an X or a Y chromosome in it. All eggs have an X chromosome.
+-  When sperm fertilizes an egg, its X or Y chromosome combines with the X chromosome of the egg.
+-  A person with XX chromosomes usually has female sex and reproductive organs, and is therefore usually assigned biologically female.
+-  A person with XY chromosomes usually has male sex and reproductive organs, and is therefore usually assigned biologically male.
+Other arrangements of chromosomes, hormones, and body parts can happen, which results in someone being intersex.
+What’s gender?
+Gender is much bigger and more complicated than assigned sex.
+ Gender includes gender roles, which are expectations society and people have about behaviors, thoughts, and characteristics that go along with a person’s assigned sex.
+For example, ideas about how men and women are expected to behave, dress, and communicate all contribute to gender. Gender is also a social and legal status as girls and boys, men, and women.
+It’s easy to confuse sex and gender. Just remember that biological or assigned sex is about biology, anatomy, and chromosomes. Gender is society’s set of expectations, standards, and characteristics about how men and women are supposed to act.
+What’s gender identity? 
+- Your gender identity is how you feel inside and how you express those feelings. Clothing, appearance, and behaviors can all be ways to express your gender identity.
+-  Most people feel that they’re either male or female. Some people feel like a masculine female, or a feminine male. Some people feel neither male nor female. These people may choose labels such as “genderqueer,” “gender variant,” or “gender fluid.” Your feelings about your gender identity begin as early as age 2 or 3.
+- Some people’s assigned sex and gender identity are pretty much the same, or in line with each other. These people are called cisgender. Other people feel that their assigned sex is of the other gender from their gender identity (i.e., assigned sex is female, but gender identity is male).  These people are called transgender or trans. Not all transgender people share the same exact identity.
+-  Consent means actively agreeing to be sexual with someone. Consent lets someone know that sex is wanted. Sexual activity without consent is rape or sexual assault.
+
+===== PAGE KEY: healthy  | TITLE: Healthy Sex Life =====
+#HOW CAN I HAVE A HEALTHY SEX LIFE?
+- Having a healthy sex life is about taking care of yourself, whether you have a partner or not. Physically, that means practicing safer sex, getting tested for STDs regularly, preventing unintended pregnancies, and seeing a doctor or nurse if you have any problems.
+- Feeling good about your body, enjoying sexual pleasure, and being comfortable with your sexual orientation and gender identity are also big parts of healthy sexuality. Having a healthy sex life means knowing what you do and don’t want to do sexually and being confident enough to communicate that to your partner. Your partner should respect your boundaries, and you should respect theirs.
+
+===== PAGE KEY: helppeer  | TITLE: Helping Adolescents Deal with Peer Pressure =====
+#Pressures
+Transition into college and becoming a teenager/youth can be very challenging for children. Some changes include added pressures from friends and peers.
+Pressures are a normal part of life and young people need guidance from their lectures, parents and other adults so that they are able to handle these pressures in a positive way.
+Some of these pressures may be drugs, truancy, sex, shop-lifting, bullying, cheating, and any other action that a child may not want to do.
+#What you can do?
+Make students aware of some of the pressures they may encounter
+Demonstrate the difference between positive and negative peer pressure
+Provide suggestions and strategies to help children deal with peer pressure
+#Positive vs. Negative Peer Pressure
+Negative Peer Pressure- 
+Is often dangerous and against school rules, home rules and personal values.
+- Skipping school
+- Vandalizing
+- Smoking
+- Sneaking out of the house
+- Bullying
+- Disrespecting authority
+- Sex
+Positive Peer Pressure- 
+Is often overlooked but does existand may be described as an influence to do what is right.
+- Studying
+- Volunteering
+- Befriending someone
+- Community Service
+- Joining a sports team
+#Identifying Students
+Traits putting students at a higher risk of falling to peer pressure
+- Low self esteem
+- Lack of confidence 
+- Uncertainty about ones place within a given peer group
+- No personal interests exclusive of one's peer group 
+- Feeling isolated from peers and/or family 
+- Lack of direction in life 
+- Depression 
+- Eating disorders
+- Poor academic abilities or performance
+Steps children can follow when confronted with peer pressure: 
+- Ask Questions
+- Identify the negative behavior or action
+- Evaluate the consequences
+- Suggest an alternative
+- Leave the situation
+#Positive and Healthy Ways to Deal with Pressures
+Strategies for students to use: 
+-  Make a joke and change the subject
+-  Say “no” and keep saying “no”
+-  Leave the area
+-  Get help from someone you trust
+-  Suggest a different activity
+-  Hang out with others who share your beliefs
+#Help students develop decision making skills
+Nurture teenagers' abilities and self-esteem so they can forge positive peer relationships
+Empower parents and educators to help teenagers pursue and maintain positive peer relationships
+Encourage cross-ethnic and "cross-class" peer interactions and guide teenagers in dealing positively with cultural diversity and individual differences.
+Support parent education programs for families with teenagers
+Establish intervention programs for preadolescents with low social skills or aggressive tendencies.
+
+===== PAGE KEY: hhhh  | TITLE: To Family and Friends =====
+#Family
+If you have a good relationship with your family, disclosing to them may lead to an even stronger relationship.
+ Your family is likely to be concerned about your future. You may find yourself educating them about HIV, as well as giving them emotional support.
+ As they come to see that you're getting on with your life, and that your life is still good, their anxieties are likely to ease. 
+Your family can be a good source of support depending on the nature of your relationship with them.
+Realistically, you also have to consider that if your relationship with your family has been less than ideal in the past, this news may further strain relations, at least for a while.
+HIV-positive parents face different and difficult decisions concerning disclosure to their children.
+ These include important considerations of the prognosis of parental health and the matter of custody planning for underage children.
+Understanding the implications of HIV/AIDS may be beyond younger children. Decisions must be made about what and when to disclose.
+#Friends
+Studies show that most people disclose their HIV diagnosis to close friends within days of learning the news themselves.
+ Some people are more informed about HIV than others. A close friend may be able to offer new ways of thinking about your situation.
+ A friend's greatest contribution may be simply listening to you.
+While most friends will respect that what you have revealed was told in confidence, you need to be aware that your HIV status may end up becoming the subject of gossip among your other friends and acquaintances.
+ In this situation, as in other difficult times in life, some friendships will endure and even deepen while others will fade away.
+ If you have a tight-knit family or social group, or you live in a small community or a rural area, confidentiality may be harder to maintain.
+ You might consider discussing with a counselor or some trusted person outside of your regular life about how to proceed.
+#General tips to consider when disclosing to family and friends:
+- Keep what you say as simple and as direct as possible.
+- Tell them you have something important to tell them.
+- Offer to answer any questions they may have.
+- Let them know they don't have to worry about your health.
+- If you have particular HIV-related issues or concerns that you're trying to sort out, let them know.
+- Request that what you're going to discuss be kept in confidence.
+- Ask them to be there for you.
+-  Tell them how much they mean to you and how much you love them.
+- Don't be afraid to show your feelings and to express how important this issue is for you.
+
+===== PAGE KEY: hiv  | TITLE: Reason For Testing =====
+#WHY GO FOR A HIV TEST
+- HIV Testing is an entry point for Risk reduction
+- Testing positive allows you seek care and treatment services.
+- Counselling can help you accept your status 
+
+===== PAGE KEY: hivb  | TITLE: Windows Period =====
+#WINDOW PERIOD
+- After HIV infection there is a delay before HIV antibodies become detectable in the blood ( 1-3) weeks)
+- Rapid or Elisa tests will be negative
+- Latest Elisa tests can detect infection at 2 weeks
+- PCR can detect infection at approximately two weeks after infection
+- This is an important point to remember when dealing with a negative test- window period must be excluded before confirming the result as negative
+
+===== PAGE KEY: hivi  | TITLE: Live a Normal Life =====
+#IF TESTED POSITIVE, HOW CAN I LIVE A NORMAL LIFE?
+- Continue going for counselling
+- Seek treatment for infections as soon as possible
+- Take ART and eat well
+- Go for PMTCT if you are pregnant to ensure your baby is safe.
+- Allow your family to care for you or help
+- Join a support group with other people like you and be encouraged.
+- Protect yourself from getting reinfections.
+- Seek community service.
+
+===== PAGE KEY: hivintr  | TITLE: HIV Testing =====
+#Latest guidance
+HIV self-testing is now widely available: you can test yourself at home with a simple oral-fluid or finger-prick kit, then confirm any reactive result at a clinic.
+If you test positive, treatment starts the same day — and effective treatment leads to an undetectable, untransmittable viral load (U=U).
+#HIV TESTING & COUNSELING(HTC)
+HIV is diagnosed by doing a blood test.
+Therefore having a test is the entry point to receiving all HIV care and support
+#HIV has two types:
+- HIV type 1
+- First identified in 1983
+- Responsible for most HIV infections globally
+- Group M has 9 subtypes (A,B,C,D,F,G,H,J,)
+- Group O – largely in central Africa
+- Group N
+- First identified in 1985 in West Africa
+- Limited spread to other countries
+
+===== PAGE KEY: hivtest  | TITLE: Available Test =====
+#Latest guidance
+You can now test at home with an HIV self-test kit (oral-fluid or finger-prick), as well as at clinics, pharmacies and through community outreach.
+A reactive self-test is always confirmed with a follow-up test at a health facility before any diagnosis.
+#A WORD ON TESTING
+- HIV testing – widely available
+- Testing should always be preceded by pre-test counseling and followed by posttest counseling
+#Life changing effects:
+- Medical
+- Psychological stress
+- Social-discrimination, loss of a job or family
+#Available Test
+#- Antibody tests
+- Rapid tests
+- Noninvasive Rapid tests
+- Elisa 
+#- Tests that detect the viral elements
+- Western blot
+- P24 antigen
+- PCR
+
+===== PAGE KEY: hivv  | TITLE: Why get Tested =====
+#WHY GET TESTED AS A COUPLE
+- If you both test negative, It will motivate you to remain faithful to each other or use a condom correctly when having sex.
+- You and your partner can discuss concerns about your sex life, and how to avoid getting infected
+- If one of you test positive, you will be advised on how to continue a normal life without the other getting infected. You will also be advised on how to get negative children
+
+===== PAGE KEY: hivwho  | TITLE: Who Should Go =====
+#WHO SHOULD GO FOR HIV TESTING
+- Anyone who is sexuality active and:  Had sex with a person whose HIV status doesn’t know.  Had sex with someone who is HIV positive  
+- Anyone who share used needles and syringes.
+- Couple who want to start a having sex.
+- Pregnant mothers and their partners, to protect their baby from HIV infection.
+
+===== PAGE KEY: homee  | TITLE:  =====
+img: 
+img: 
+
+===== PAGE KEY: hos  | TITLE: Adherence =====
+#Latest guidance
+Taking your ART every day keeps your viral load undetectable — that keeps you healthy and means you cannot pass HIV to sexual partners (U=U).
+#ADHERE TO YOUR MEDS
+- An essential part of following an HIV regimen is medication adherence. Medication adherence means sticking firmly to an HIV regimen—taking HIV medicines every day and exactly as prescribed.
+- Medication adherence reduces the risk of drug resistance and treatment failure.
+- Before starting an HIV regimen, tell your health care provider about any issues that can make adherence difficult, such as lack of health insurance or alcohol or drug abuse.
+- After starting an HIV regimen, medication aids such as  pill boxes, pill reminders, and medication diaries can help to maintain long-term medication adherence.
+
+===== PAGE KEY: hotline  | TITLE: 1190 Hotline? =====
+#Who runs the one2one Hotline?
+one2one is run by a Kenyan NGO based in Nairobi called Liverpool VCT, Care and Treatment (LVCT). We are the leaders in the field of VCT service provision in Kenya and have lots of experience providing counseling, HIV testing, care and treatment services throughout the country.
+#What is one2one hotline?
+one2one is a unique sexual health and HIV hotline for youth in Kenya. The service is peer based and staffed by well trained and supervised youth counsellors. one2one is free when called from both Safaricom.
+#Is one2one hotline really confidential?
+Yes! one2one is confidential and anonymous. We neither ask about your name nor record the number you have used to call.
+We only ask callers questions that help us improve our service, that is, how old you are, how you found out about one2one and the area you are calling from.
+ But none of this information can identify you and you are free not to answer if you don't want to.
+#Can I call from my mobile phone?
+Yes, at the moment, the one2one can be reached through Safaricom. However we are working to extend these services to mobile users on others network very soon.
+#When is one2one open?
+The hotline services are open from 8am-8pm everyday. If you call at any other time you can leave a voice message with a number you can be reached with and we'll call you back during our opening hours.
+ You can also leave a message through our chat function and we can email you back during work hours.
+#Who calls one2one?
+one2one welcomes all calls from anyone with a question or a problem.
+Although the service was established to deal with youth sexual health issues we do not restrict on other callers.
+#What kind of questions or problems do people call with?
+Most of the calls we deal with are about relationships, sexuality, psychosocial support, pregnancy and prevention, and sexual and gender based abuse, HIV/AIDS amongst many others.
+ The range of calls is wide and we frequently deal with questions about sexual orientation, masturbation, drug use, STI, HIV Counseling and testing, and a variety of other youth related concerns.
+#How do you let people know about one2one?
+We use a variety of methods to inform people about one2one.
+ This we do through distribution of posters and business cards in schools, business places and youth events.
+ We also utilize other avenues of advertisement and marketing such as the Youth Advisory Council members, counselling and testing mobilization activities, the one2one website and through the Insyder and other teen magazines.
+ In the last one year, we have increased our marketing efforts to rural areas especially Central and Nyanza Province through the Youth Advisory Council mobilization activities.
+#If I have a question can I email instead of calling?
+Yes! If you have a question or concern you can email one2one and we'll reply as quickly as possible.
+You can mail us at one2one@lvct.org 
+#Staffing
+one2one has five female and five male counselors and nurses who are very dedicated and vibrant! Hotline staff can be reached through one2one@lvct.org
+Click here for further infor? http://one2onekenya.org/site/
+
+===== PAGE KEY: imm  | TITLE: Pneumococcus Vaccination =====
+#Pneumococcus Vaccination
+The British HIV Association recommends that people living with HIV who have a CD4 cell count above 200 should be vaccinated against pneumococcal disease, and that vaccination should be considered for people with a CD4 cell count below this level.
+Booster doses are recommended every five to ten years.
+There are two types of pneumococcus vaccine:
+- pneumococcal conjugate vaccine (PCV)
+-  pneumococcal polysaccharide vaccine (PPV).
+This vaccine is available from your GP surgery.
+ You could ask about having your flu vaccine at the same time.
+ If you do not have a GP, or have not disclosed your HIV status (and are not considered at risk and therefore eligible for the vaccine), talk to your healthcare team at your HIV clinic.
+
+===== PAGE KEY: immune  | TITLE: HIV and Key Populations =====
+#Hepatitis vaccination
+Effective vaccinations are available to protect against hepatitis A and hepatitis B.
+There is currently no vaccine against hepatitis C.
+All people with HIV should have these vaccinations unless they already have natural immunity to hepatitis A or B, usually as a result of clearing a previous infection.
+ Your HIV clinic should be able to check this with a blood test.
+The hepatitis A vaccine normally requires two doses (by injection) and the hepatitis B vaccine requires three.
+ There is also a combination hepatitis A and B vaccine.
+ Your HIV clinic should be able to give these vaccines to you.
+ Let your HIV doctor know if you have them elsewhere.
+A complete vaccine course can usually provide long-term protection.
+ A blood test can show whether your level of immunity is high enough to protect you.
+ It is important that you have this blood test after your vaccinations.
+ People living with HIV – especially those with a low CD4 cell count – have a greater chance of not developing adequate immunity after the standard vaccination course.
+ If so, you might need to repeat the vaccination course or receive a higher dose.
+ People with a low CD4 count should start HIV treatment first to give the vaccines a better chance of working.
+
+===== PAGE KEY: issuespare  | TITLE: Issues of Teenage Parents =====
+#Issues for teenage parents
+Being a parent can make it harder to get an education or find a job.
+ Juggling the responsibilities of being a parent with work, school and a social life can be tiring.
+It can also be very difficult to get child care, and almost impossible to get affordable child care.
+ These difficulties can make it hard to cope financially, and can make parents feel lonely and apart from their family and friends.
+On the other hand, teenage parents can find they have all the energy in the world to keep up with toddlers.
+ They can also be better than older parents at dealing with the new lifestyle of being a parent; they’re much better at dealing with little or no sleep, for example.
+ But young parents who are still physically developing while pregnant can struggle with sustaining two growing bodies at once.
+Some teenage parents might feel they’re so busy trying to cope with the rest of their life that they can’t give their children enough attention.
+ Because they might also have to worry about finishing their education, working or finding a job, they might not feel as though they can enjoy their children or feel as satisfied as much as older parents.
+
+===== PAGE KEY: lifeskill  | TITLE: LifeSkills =====
+#objective:
+To empower service providers with knowledge to assist the youth to develop life skills that will help them face the challenges of growing up and make decisions about their future.
+#Definition of life skills
+Life skills are abilities or psychological competences that help the individual to deal or cope effectively with the challenges of every day life.They help young people identify goals and build good and healthy futures.
+The acquired abilities are practiced, mastered and perfected to become skills.
+There are three categories of life skills
+#Skills for dealing and coping with oneself
+- Self awareness
+- Self esteem
+- Coping with emotions
+- Coping with stress
+- Goal setting
+- Time management
+#Skills for dealing and coping with others
+- Interpersonal relationships
+- Friendship formation
+- Conflict resolution
+- Empathy
+- Effective communication
+- Resisting peer pressure 
+- assertiveness
+- Negotiation
+#Skills for making effective decisions
+- Critical thinking
+- Creative thinking
+- Decision making
+- Problem solving
+- Employment economically
+- Socially and Education
+#Self-awareness
+This is the ability to understand who you are as well as your strengths and weakness. It enables one to work on his /her weakness and build on his/her strengths. It helps people to accept corrections.
+#Critical thinking
+This is the ability to analyze a situation and give your own opinion even if it differs from others. It helps young people make their own personal decisions
+#Self esteem
+- Self-esteem is a word used to describe how people feel about themselves. Influences their actions towards others and what they can accomplish in life.
+- Someone with high self-esteem accepts his or her mistakes and moves on.They feel confident about their own decisions.
+- If another person tries to convince or persuade them to do something they do not want to do, people who feel good about themselves will be less likely to fall under that person’s pressure.
+- People are not born with self-esteem. It is learned as children realize that they are loved and valued. As children hear positive remarks including praise, encouragement, and reassurance, about themselves and the things they do, their selfesteem is strengthened.
+#Ways to improve self-esteem for young people
+- Not comparing them with others.
+- Recognizing their special talents and appreciating themselves the way they are.
+- Making a list of their best qualities.
+- Being aware of things they would like to improve about themselves, but not being overly self-critical.
+- Setting realistic and achievable goals.
+- Believing in themselves.
+- Spending time with people who care for them and make them feel good about themselves.
+- Staying away from people who damage their self-esteem.
+#Factors that lower self-esteem
+- young people may have low selfesteem because often, the “negative” things about people are highlighted while the “positive” things are not spoken about. 
+- Put-down: A word, phrase, expression, statement, gesture, or situation that results in a person not feeling good enough, or important, or capable, or less valued or less significant than before. Examples include: “You fool!” ,“You are a cow!”
+#Some ways we might put ourselves down include:
+- Not accepting compliments.
+- Giving credit to others when it belongs to us.
+- Frequently giving others opinions before our own.
+- Accepting and responding to nicknames like “fatty.”
+#people who are used to being put down:
+- Find it difficult to socialize or meet new people because they are afraid of rejection
+- Are easily influenced or do things they do not want to do.
+- Cannot stand up for their rights.
+- Are shy and withdrawn.
+- Lack confidence.
+- Find it difficult to make decisions.
+#Assertiveness
+Being assertive means standing up for yourself and being honest with yourself and others about what you need and want. Being assertive can help young people protect themselves from dangerous situations and can help them resist peer pressure.People who are not assertive often lack the confidence and self esteem to stand up for their own needs and to protect their feelings or body from being hurt.Assertiveness is very different from being aggressive.People who are aggressive are rude and unkind. They do not care about other people’s feelings.
+#Golden Rules of Assertiveness
+- Decide what you feel or want and say it.
+- Maintain eye contact.
+- Do not make excuses.Your feelings are the best reasons.
+- Show people that you know your own mind and are not looking for their approval.
+- Do not get confused by the other person’s argument. Keep repeating what you want or do not want.
+- Remember you have a right to change your mind.
+#Passiveness
+- Giving in to the will of others.
+- Hoping to get what you want without having to say it.
+- Leaving it to others to guess or letting them decide for you.
+- Being submissive.
+- Talking quietly, giggling, looking down or away, sagging shoulders, hiding ones face.
+-  Avoiding disagreement.
+- Submissive type
+#Assertiveness
+- Telling someone exactly what you want in a way that does not seem rude or threatening.
+- Standing up for your rights without endangering the rights of others.
+- Knowing what you need and want.
+- Expressing yourself with “I” statements say “I feel” not “You…”
+- Looking the other in the eye.
+- Standing your ground.
+- Balanced type
+#Aggressiveness
+- Expressing your feelings or desires in a way that threatens or punishes others.
+- Insisting on your rights while denying their rights.
+- Dominating, shouting, demanding, not listening to others.
+- Looking down on people.
+- Saying others are wrong.
+- Blaming, threatening, or fighting with others.
+- Dominant type
+#Decision Making
+- A decision is a choice that we make between two or more possible courses of action. As young people grow, they make decisions some of which will affect them for the rest of their lives.
+- One of the most important parts of decision making is predicting outcomes or understanding the consequences ofa choice.The better young people are at predicting outcomes, the better they will be at making decisions that result in the outcomes they want. Understanding the possible consequences of decisions help young people to cope with the choices they have to make about their lives.
+#Key steps for good decision-making include:
+- Identifying the problem, situation, or issue that is calling for a decision.
+- Thinking about the possible consequences or outcomes of each course of action.
+- Thinking about your personal and family values, and which courses of action are consistent with these values.
+- Thinking about the ways in which your decision may affect other people.
+- Choosing the decision that seems most appropriate based on your knowledge, values, morals, religious upbringing, and present and future goals.
+- Re-thinking the decision and how you feel about it – whether you feel that you carefully considered all the alternatives and feel comfortable with the choice you have made.
+#Another way of looking at decision making process is by using the acronym DECIDE.
+- D – Describe the problem in your own words
+- E – Explore the available options
+- C – Choose the option that best fits you
+- I – Identify the advantages and disadvantages of the option you have chosen
+- D – Do it if the advantages outweigh the disadvantages
+- E – Evaluate whether your option is working. If not go back to the first “E”
+#Three C’s for Decision Making
+- CHALLENGE Describe the CHALLENGE (or decision) you have.
+- CHOICESList at least three CHOICES you have.
+- CONSEQUENCES Consider the positive and negative CONSEQUENCES of each choice.
+#Goal setting
+ Goals give us something to look forward to. To set a goal, we must learn about what we want to achieve. Goals should be specific, practical, and have a deadline. Goals should be realistic, manageable and achievable. Achieving a goal makes it easier and creates confidence to move to other, greater goals. Thinking about the expected benefits can be motivating. To help achieve a goal, it is helpful to have a plan with steps that are needed to achieve the goal, and also think about possible difficulties and how they can be overcome.
+
+===== PAGE KEY: limita  | TITLE: Limitations =====
+#ARE THERE LIMITATIONS WITH THE VIRAL LOAD TEST?
+- Only about 2% of the HIV in your body is in the blood. The viral load test does not measure how much HIV is in body tissues like the lymph nodes, spleen, or brain. HIV levels in lymph tissue and semen go down when blood levels go down, but not at the same time or the same rate.
+- The viral load test results can be thrown off if your body is fighting an infection, or if you have just received an immunization (like a flu shot). You should not have blood taken for a viral load test within four weeks of any infection or immunization.
+
+===== PAGE KEY: link  | TITLE: HIV Research Links =====
+- https://www.nih.gov/research-training/advances-hiv/aids-research
+- http://hivinsite.ucsf.edu/InSite?page=li-04-24
+- http://newsroom.ucla.edu/releases/ucla-research-links-hiv-to-age-accelerating-cellular-changes
+- https://www.hiv.gov/federal-response/federal-activities-agencies/hiv-research-activities
+- http://www.scripps.edu/discover/hiv-aids.html
+- https://www.cdc.gov/hiv/research/
+- http://www.hivresearchtrust.org.uk/
+- https://en.wikipedia.org/wiki/HIV/AIDS_research
+- http://www.scidev.net/sub-saharan-africa/health/
+- https://www.niaid.nih.gov/diseases-conditions/hiv-cure-research 
+
+===== PAGE KEY: lowcd4  | TITLE: Living Well With Low CD4 =====
+The most important thing is to start HIV treatment, and to take it exactly the way you are advised to (this is often called adherence ).
+Attend your HIV clinic for regular check-ups.
+ These monitor how your treatment is working, with regular screening for other health problems.
+ Having a good relationship with your healthcare team is important, so that you feel able to be honest about your health, lifestyle, adherence and any other issues, to help you receive the best possible care and support.
+Register with a GP (family doctor) for non-HIV-related health problems.
+ GPs can give you an annual flu vaccination (recommended for people with a weakened immune system), and provide advice on lifestyle factors that help keep you well, including healthy eating , exercise and giving up smoking .
+While your CD4 count is low (under 200), ensure your drinking water is free from infection and take extra care in preparing and storing food to avoid food poisoning.
+ Be careful to avoid infections if you are handling animals or gardening.
+ Your healthcare team can talk to you about any risks and give you advice.
+
+===== PAGE KEY: lub  | TITLE: Condoms =====
+#Lubricants for Latex Condoms
+Lubrication helps avoid condom breakage.
+ There are 3 ways to provide lubrication—natural vaginal secretions, adding a lubricant, or using condoms packaged with lubricant on them.
+Sometimes lubricants made of glycerine or silicone, which are safe to use with latex condoms, are available.
+ Clean water and saliva also can be used for lubrication.
+ Lubricants should be applied on the outside of the condom, in the vagina, or in the anus.
+Lubricants should not be put on the penis, as this can make the condom slip off.
+ A drop or two of lubricant on the inside of the condom before it is unrolled can help increase the sensation of sex for some men.
+ Too much lubricant inside, however, can make the condom slip off.
+ Do not use products made with oil as lubricants for latex condoms.
+ They can damage latex. Materials that should not be used include:
+-  any oils (cooking, baby, coconut, mineral)
+-  petroleum jelly
+-  lotions
+-  cold creams butter
+-  cocoa butter
+- margarine
+#What Condom Users Should Not Do
+Some practices can increase the risk that the condom will break and should be avoided.
+- Do not unroll the condom first and then try to put it on the penis
+- Do not use lubricants with an oil base because they damage latex
+-  Do not use a condom if the color is uneven or changed
+-  Do not use a condom that feels brittle, dried out, or very sticky
+-  Do not reuse condoms
+-  Do not have dry sex
+Also, do not use the same condom when switching between different penetrative sex acts, such as from anal to vaginal sex.
+ This can transfer bacteria that can cause infection.
+#New Problems That May Require Switching Methods
+May or may not be due to method.
+Female partner is using miconazole or econazole (for treatment of vaginal infections)
+- A woman should not rely on latex condoms during vaginal use of miconazole or econazole. They can damage latex. (Oral treatment will not harm condoms.)
+- She should use female condoms or plastic male condoms, another contraceptive method, or abstain from sex until treatment is completed.
+-  Stop using latex condoms.
+-  Refer for care, if necessary. Severe allergic reaction to latex could lead to life-threatening anaphylactic shock. Choose another method.
+-  If the client or partner cannot avoid risk of STIs, suggest they use female condoms or plastic male condoms, if available. If neither partner has an infection, a mutually faithful sexual relationship provides STI protection without requiring condom use but does not protect against pregnancy.
+
+===== PAGE KEY: manpre  | TITLE: Young men and Pregnancy =====
+#Young men and pregnancy
+Young men often receive blame but little information, counseling and support.
+ Young men may need help to accept and support the young woman’s right to decide the outcome of the pregnancy, and what her choice means for the father.
+- They may need support to talk about their reaction to the pregnancy, how they feel about future involvement, dealing with family and friends’ responses.
+-  If the young woman decides to keep the baby it raises the question of what involvement the father wants and his legal responsibilities to help support his baby.
+-  If the father’s name is on the birth certificate, or if he is presumed to be the father (for example, because he and the young woman were living together), then he will be liable to help support the baby financially.
+-  If a young man does not believe he is the father, he would need to get legal advice. You can contact Legal Aid in your state or territory to find out more.
+- It is possible to have a DNA test to check if someone is the father of a particular baby.  This is done on blood (or other body tissues) from the man, the baby and preferably the mother as well.  The test can be done at any age and is now very accurate. He would need to talk with his doctor to find out how to do this.
+-  Many young men may need information about contraception.
+
+===== PAGE KEY: medical  | TITLE: Medical Reasons =====
+#MEDICAL REASONS WHY YOU AS A TEENAGER SHOULD DELAY GETTING PREGNANT PHYSICAL MAJOR RISKS OF TEENAGE PREGNANCIES:
+- A young woman under age 16 has not reached physical maturity.
+- A small pelvis can lead to a difficult delivery, as well as lead to health problems or death of the mother or the infant.
+- Young women, especially those under age 15, are more likely than women age 20 and older to experience premature labor, spontaneous abortion (miscarriage), and stillbirths. 
+- First births are typically more risky than subsequent births. 
+- Women giving birth for the first time have a higher probability of developing health problems.
+- Infant death rates are typically higher for adolescent mothers than for older women.
+Some social reasons to delay childbearing include:
+- Delaying childbearing can give young women the opportunity to pursue formal education, work outside the home, and achieve their future goals.
+- Men can pursue education and jobs without the pressure of providing for a family.
+- Delayed pregnancy can mean smaller families and can offer economic benefits. 
+- Pregnant girls may be expelled from or drop out of school and few girls return to school later.
+- The responsibility for caring for a child, as well as limited education, reduces a young woman’s access to jobs and income-earning opportunities. 
+- Some young women find themselves rejected by the father of the child or by their own families.
+#PHYSICAL MAJOR RISKS OF TEENAGE PREGNANCIES:
+-  Can be infected with STIs/HIV/AIDS 
+-  High blood pressure during pregnancy
+-  Anaemia and malnutrition 
+-  Difficulties in delivery as teenager is too young 
+-  Premature delivery
+-  Death at delivery (ruptured uterus)
+
+===== PAGE KEY: men_intr  | TITLE: What is Menstruation and Conception =====
+Each ovary holds hundreds of thousands of pinpoint-sized eggs. Girls are born with all the eggs they will ever have.
+After puberty, one ovary releases a mature egg about once a month. This is called ovulation.
+Before ovulation, the uterus builds up a spongy, soft lining made of tissue and blood. This lining is like a nest for the egg if pregnancy happens.
+After ovulation, the egg moves through one of the fallopian tubes toward the uterus. Most of the time, the egg is not fertilized, and breaks apart before it gets to the uterus. The lining of the uterus that built up is not needed and begins to flow out of the uterus, through the cervix and vagina out of the body. This is called menstruation or a “period.”
+ When a man and woman have intercourse and the man ejaculates, millions of sperm are released in the vagina. The sperm swim through the vagina, to the uterus, and into the fallopian tubes. If there are sperm in the fallopian tubes when the egg is released they can join together. This is called fertilization. 
+There are only certain days during a month when a woman can become pregnant through vaginal intercourse. The egg lives for about a day after ovulation and sperm can live from three to six days in the fallopian tubes. Therefore, there are about seven days during each month when a woman can get pregnant. If fertilized, the egg then travels the rest of the way through the fallopian tubes and attaches to the lining of the uterus. This is called implantationand is when pregnancy begins. If the fertilized egg continues to grow, it becomes an embryo and then a fetus and, finally, a baby at birth. 
+Most fertilized eggs do not become babies. Up to half of fertilized eggs do not attach to the uterus and leave the body in menstrual flow. Some implant, but their development ends in fewer than 20 weeks. This is called miscarriage or spontaneous abortion.
+Sometimes women decide to end their pregnancies through a procedure called induced abortion. Sometimes a fetus dies after 20 weeks or just before or during birth. This is called a stillbirth. 
+ Usually the first sign of pregnancy is a missed period. Other signs are nausea or vomiting, having sore and swollen breasts, fatigue, and increased urination. 
+Women who suspect they might be pregnant should take a pregnancy test or see their health care provider. It is important that pregnant women get prenatal care as soon as possible. 
+
+===== PAGE KEY: men_th  | TITLE: How do girls ease Premenstrual Syndrome? =====
+#How do girls ease premenstrual syndrome? 
+- Medical attention especially for the cramps and sore breasts: one might be given contraceptive pills or an injection
+- Relaxation
+- Avoid taking in a lot of salt as it adds to their feeling of heaviness
+- Exercises to ease stress and pain
+- Avoid deep-fried foods
+- Eat a lot of vegetables and fruits
+- Take painkiller

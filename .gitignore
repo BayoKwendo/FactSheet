@@ -34,10 +34,13 @@ build
 # Java class files
 *.class
 
-# Generated files
+# Generated files (Eclipse-era R.java folders)
 bin/
 gen/
 out/
+# ...but DO track the app's generated content data, which is shipped in the APK
+!app/src/main/assets/gen/
+!app/src/main/assets/gen/**
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -67,3 +70,6 @@ app/release/
 *.keystore
 local.properties
 .idea/
+
+# Gradle cache
+.gradle/
