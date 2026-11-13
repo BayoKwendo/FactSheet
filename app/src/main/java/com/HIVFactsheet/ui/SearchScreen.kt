@@ -59,7 +59,10 @@ fun SearchScreen(onOpen: (String) -> Unit, onBack: () -> Unit) {
 
             if (query.length >= 2 && results.isEmpty()) {
                 Box(Modifier.fillMaxWidth().padding(24.dp)) {
-                    Text("No topics match “$query”.", color = BrandPurple)
+                    Text(
+                        "No topics match “$query”.",
+                        color = androidx.compose.material3.MaterialTheme.colorScheme.onBackground,
+                    )
                 }
             }
 
@@ -71,7 +74,7 @@ fun SearchScreen(onOpen: (String) -> Unit, onBack: () -> Unit) {
                     Card(
                         onClick = { onOpen(hit.id) },
                         colors = CardDefaults.cardColors(
-                            containerColor = androidx.compose.ui.graphics.Color.White,
+                            containerColor = androidx.compose.material3.MaterialTheme.colorScheme.surface,
                         ),
                         elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
                         modifier = Modifier.fillMaxWidth(),
@@ -79,7 +82,7 @@ fun SearchScreen(onOpen: (String) -> Unit, onBack: () -> Unit) {
                         Column(Modifier.padding(14.dp)) {
                             Text(
                                 hit.title,
-                                color = BrandPurple,
+                                color = androidx.compose.material3.MaterialTheme.colorScheme.onSurface,
                                 fontWeight = FontWeight.Bold,
                                 fontSize = 16.sp,
                             )
@@ -88,7 +91,7 @@ fun SearchScreen(onOpen: (String) -> Unit, onBack: () -> Unit) {
                                     hit.snippet,
                                     fontSize = 13.sp,
                                     maxLines = 2,
-                                    color = androidx.compose.ui.graphics.Color(0xFF444444),
+                                    color = androidx.compose.material3.MaterialTheme.colorScheme.onSurfaceVariant,
                                     modifier = Modifier.padding(top = 2.dp),
                                 )
                             }

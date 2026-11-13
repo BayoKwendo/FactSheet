@@ -11,10 +11,18 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.material.icons.Icons
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.icons.automirrored.filled.List
+import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.filled.DarkMode
+import androidx.compose.material.icons.filled.Info
+import androidx.compose.material.icons.filled.LightMode
 import androidx.compose.material.icons.filled.Menu
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.ui.graphics.vector.ImageVector
+import com.HIVFactsheet.data.Prefs
 import androidx.compose.material3.DrawerValue
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
@@ -45,8 +53,10 @@ import kotlinx.coroutines.launch
 /** Home screen: 4 swipeable topic tabs plus the navigation drawer. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit) {
+fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit, onBookmarks: () -> Unit) {
     val reg = Repository.registry
+    val systemDark = isSystemInDarkTheme()
+    val isDark = Prefs.darkMode ?: systemDark
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
     val drawerState = rememberDrawerState(DrawerValue.Closed)
@@ -76,19 +86,24 @@ fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit) {
                 )
                 HorizontalDivider()
                 fun close() = scope.launch { drawerState.close() }
-                DrawerLink("Home") { close() }
-                DrawerLink("HIV Research") { close(); onOpen("Main43Activity") }
-                DrawerLink("AMPATH") { close(); onOpen("ampath") }
-                DrawerLink("NASCOP VL System") { close(); onOpen("videos") }
-                DrawerLink("Videos") { close(); onOpen("Main39Activity") }
+                DrawerLink("Home", Icons.AutoMirrored.Filled.List) { close() }
+                DrawerLink("Bookmarks", Icons.Filled.Bookmark) { close(); onBookmarks() }
+                DrawerLink("HIV Research", Icons.AutoMirrored.Filled.List) { close(); onOpen("Main43Activity") }
+                DrawerLink("AMPATH", Icons.AutoMirrored.Filled.List) { close(); onOpen("ampath") }
+                DrawerLink("NASCOP VL System", Icons.AutoMirrored.Filled.List) { close(); onOpen("videos") }
+                DrawerLink("Videos", Icons.AutoMirrored.Filled.List) { close(); onOpen("Main39Activity") }
                 HorizontalDivider()
-                DrawerLink("Share") { close(); share() }
-                DrawerLink("About Us") { close(); onOpen("AboutActivity") }
+                DrawerLink(
+                    if (isDark) "Light mode" else "Dark mode",
+                    if (isDark) Icons.Filled.LightMode else Icons.Filled.DarkMode,
+                ) { Prefs.setDark(!isDark) }
+                DrawerLink("Share", Icons.Filled.Share) { close(); share() }
+                DrawerLink("About Us", Icons.Filled.Info) { close(); onOpen("AboutActivity") }
             }
         },
     ) {
         Scaffold(
-            containerColor = BrandCream,
+            containerColor = MaterialTheme.colorScheme.background,
             topBar = {
                 TopAppBar(
                     title = { Text("FactSheet", fontWeight = FontWeight.Bold, color = BrandCyan) },
@@ -154,11 +169,11 @@ fun HubList(hub: Screen, onOpen: (String) -> Unit) {
 }
 
 @Composable
-private fun DrawerLink(label: String, onClick: () -> Unit) {
+private fun DrawerLink(label: String, icon: ImageVector, onClick: () -> Unit) {
     NavigationDrawerItem(
         label = { Text(label) },
         selected = false,
-        icon = { Icon(Icons.AutoMirrored.Filled.List, contentDescription = null) },
+        icon = { Icon(icon, contentDescription = null) },
         onClick = onClick,
         modifier = Modifier.padding(horizontal = 12.dp),
     )

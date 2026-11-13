@@ -9,7 +9,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.HIVFactsheet.data.Prefs
 import com.HIVFactsheet.data.Repository
+import com.HIVFactsheet.ui.BookmarksScreen
 import com.HIVFactsheet.ui.ContentScreen
 import com.HIVFactsheet.ui.FactSheetTheme
 import com.HIVFactsheet.ui.MainMenu
@@ -21,6 +23,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Repository.init(applicationContext)
+        Prefs.init(applicationContext)
         setContent {
             FactSheetTheme { AppNav() }
         }
@@ -40,10 +43,17 @@ private fun AppNav() {
             MainMenu(
                 onOpen = { id -> nav.navigate("screen/$id") },
                 onSearch = { nav.navigate("search") },
+                onBookmarks = { nav.navigate("bookmarks") },
             )
         }
         composable("search") {
             SearchScreen(
+                onOpen = { id -> nav.navigate("screen/$id") },
+                onBack = { nav.popBackStack() },
+            )
+        }
+        composable("bookmarks") {
+            BookmarksScreen(
                 onOpen = { id -> nav.navigate("screen/$id") },
                 onBack = { nav.popBackStack() },
             )

@@ -43,7 +43,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.material3.MaterialTheme
 import com.HIVFactsheet.data.Block
+import com.HIVFactsheet.data.Prefs
 import com.HIVFactsheet.data.Repository
 import com.HIVFactsheet.data.Screen
 import com.HIVFactsheet.data.Span
@@ -69,9 +71,12 @@ fun ContentScreen(
     var query by remember { mutableStateOf("") }
     val hasContent = blocks.isNotEmpty()
 
+    val bookmarked = Prefs.isBookmarked(screen.id)
     AppScaffold(
         title = screen.title,
         onBack = onBack,
+        bookmarked = bookmarked,
+        onBookmark = { Prefs.toggleBookmark(screen.id) },
         onSearchToggle = if (hasContent) {
             { searchOpen = !searchOpen; if (!searchOpen) query = "" }
         } else null,
@@ -149,29 +154,35 @@ private fun GuidanceCallout(blocks: List<Block>, query: String) {
             blocks.forEach { b ->
                 val isGenericHead = b is Block.Heading &&
                     b.spans.joinToString("") { it.text }.trim().equals("Latest guidance", true)
-                if (!isGenericHead) BlockView(b, query)
+                if (!isGenericHead) BlockView(b, query, color = Color(0xFF1A1A1A))
             }
         }
     }
 }
 
 @Composable
-private fun BlockView(block: Block, query: String) {
+private fun BlockView(
+    block: Block,
+    query: String,
+    color: Color = MaterialTheme.colorScheme.onBackground,
+) {
     when (block) {
         is Block.Heading -> Text(
             text = highlighted(block.spans, query),
+            color = color,
             fontSize = when (block.level) { 1 -> 24.sp; 2 -> 20.sp; else -> 18.sp },
             fontWeight = FontWeight.Bold,
             lineHeight = 30.sp,
         )
         is Block.Para -> Text(
             text = highlighted(block.spans, query),
+            color = color,
             fontSize = 16.sp,
             lineHeight = 24.sp,
         )
         is Block.Bullet -> Row(Modifier.fillMaxWidth().padding(start = 4.dp)) {
-            Text(if (block.ordered) "•  " else "•  ", fontSize = 16.sp)
-            Text(highlighted(block.spans, query), fontSize = 16.sp, lineHeight = 24.sp)
+            Text("•  ", color = color, fontSize = 16.sp)
+            Text(highlighted(block.spans, query), color = color, fontSize = 16.sp, lineHeight = 24.sp)
         }
         is Block.Img -> {
             val context = LocalContext.current
