@@ -13,6 +13,7 @@ import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material.icons.filled.Menu
+import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material3.DrawerValue
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -44,7 +45,7 @@ import kotlinx.coroutines.launch
 /** Home screen: 4 swipeable topic tabs plus the navigation drawer. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun MainMenu(onOpen: (String) -> Unit) {
+fun MainMenu(onOpen: (String) -> Unit, onSearch: () -> Unit) {
     val reg = Repository.registry
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
@@ -97,6 +98,9 @@ fun MainMenu(onOpen: (String) -> Unit) {
                         }
                     },
                     actions = {
+                        IconButton(onClick = onSearch) {
+                            Icon(Icons.Filled.Search, contentDescription = "Search")
+                        }
                         IconButton(onClick = { share() }) {
                             Icon(Icons.Filled.Share, contentDescription = "Share")
                         }

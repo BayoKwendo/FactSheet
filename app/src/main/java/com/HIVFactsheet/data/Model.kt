@@ -8,12 +8,18 @@ data class Span(
     val color: String? = null,
 )
 
-/** A single native content block converted from the original HTML. */
+/**
+ * A single native content block converted from the original HTML.
+ * [updated] marks blocks added during the "latest guidance" refresh so the UI
+ * can present them as a distinct callout.
+ */
 sealed interface Block {
-    data class Para(val spans: List<Span>) : Block
-    data class Heading(val level: Int, val spans: List<Span>) : Block
-    data class Bullet(val spans: List<Span>, val ordered: Boolean) : Block
-    data class Img(val src: String) : Block
+    val updated: Boolean
+
+    data class Para(val spans: List<Span>, override val updated: Boolean = false) : Block
+    data class Heading(val level: Int, val spans: List<Span>, override val updated: Boolean = false) : Block
+    data class Bullet(val spans: List<Span>, val ordered: Boolean, override val updated: Boolean = false) : Block
+    data class Img(val src: String, override val updated: Boolean = false) : Block
 }
 
 /**

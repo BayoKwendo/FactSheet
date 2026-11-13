@@ -9,13 +9,19 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.ui.Alignment
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Clear
+import androidx.compose.material.icons.filled.Check
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.OutlinedTextField
@@ -87,11 +93,16 @@ fun ContentScreen(
                 )
             }
 
+            // "Latest guidance" blocks are prepended; surface them as a callout.
+            val callout = blocks.takeWhile { it.updated }
+            val body = blocks.drop(callout.size)
+
             LazyColumn(
                 contentPadding = PaddingValues(16.dp),
                 verticalArrangement = Arrangement.spacedBy(10.dp),
             ) {
-                items(blocks) { block -> BlockView(block, query) }
+                if (callout.isNotEmpty()) item { GuidanceCallout(callout, query) }
+                items(body) { block -> BlockView(block, query) }
 
                 if (screen.children.isNotEmpty()) {
                     if (hasContent) item { Spacer(Modifier.height(8.dp)) }
@@ -106,6 +117,39 @@ fun ContentScreen(
                 if (!hasContent && screen.children.isEmpty()) {
                     item { Text("Content coming soon.") }
                 }
+            }
+        }
+    }
+}
+
+/** Highlighted card that frames the refreshed "latest guidance" blocks. */
+@Composable
+private fun GuidanceCallout(blocks: List<Block>, query: String) {
+    Card(
+        shape = RoundedCornerShape(14.dp),
+        colors = CardDefaults.cardColors(containerColor = Color(0xFFE7F5E6)),
+        elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
+        modifier = Modifier.fillMaxWidth(),
+    ) {
+        Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Icon(
+                    Icons.Filled.Check, contentDescription = null,
+                    tint = Color(0xFF1D7A10), modifier = Modifier.size(18.dp),
+                )
+                Spacer(Modifier.width(6.dp))
+                Text(
+                    "UPDATED INFORMATION",
+                    color = Color(0xFF1D7A10),
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 12.sp,
+                    letterSpacing = 0.8.sp,
+                )
+            }
+            blocks.forEach { b ->
+                val isGenericHead = b is Block.Heading &&
+                    b.spans.joinToString("") { it.text }.trim().equals("Latest guidance", true)
+                if (!isGenericHead) BlockView(b, query)
             }
         }
     }

@@ -96,13 +96,62 @@ object Repository {
     private fun parseBlocks(arr: JSONArray): List<Block> = buildList {
         for (i in 0 until arr.length()) {
             val b = arr.getJSONObject(i)
+            val up = b.optInt("gen", 0) == 1
             when (b.getString("t")) {
-                "p" -> add(Block.Para(parseSpans(b.getJSONArray("s"))))
-                "h" -> add(Block.Heading(b.optInt("lvl", 2), parseSpans(b.getJSONArray("s"))))
-                "li" -> add(Block.Bullet(parseSpans(b.getJSONArray("s")), b.optInt("o", 0) == 1))
-                "img" -> add(Block.Img(b.getString("src")))
+                "p" -> add(Block.Para(parseSpans(b.getJSONArray("s")), up))
+                "h" -> add(Block.Heading(b.optInt("lvl", 2), parseSpans(b.getJSONArray("s")), up))
+                "li" -> add(Block.Bullet(parseSpans(b.getJSONArray("s")), b.optInt("o", 0) == 1, up))
+                "img" -> add(Block.Img(b.getString("src"), up))
             }
         }
+    }
+
+    // --- global search -----------------------------------------------------
+
+    data class SearchHit(val id: String, val title: String, val snippet: String)
+
+    private var searchDocs: List<Triple<String, String, String>>? = null  // id, title, lowerText
+
+    private fun docs(): List<Triple<String, String, String>> = searchDocs ?: run {
+        val list = registry.screens.values
+            .filter { it.title.isNotBlank() || it.content != null }
+            .map { sc ->
+                val body = sc.content?.let { k ->
+                    content(k).joinToString(" ") { blk ->
+                        when (blk) {
+                            is Block.Para -> blk.spans.joinToString("") { it.text }
+                            is Block.Heading -> blk.spans.joinToString("") { it.text }
+                            is Block.Bullet -> blk.spans.joinToString("") { it.text }
+                            is Block.Img -> ""
+                        }
+                    }
+                } ?: ""
+                Triple(sc.id, sc.title, (sc.title + " " + body))
+            }
+        list.also { searchDocs = it }
+    }
+
+    fun search(query: String, limit: Int = 40): List<SearchHit> {
+        val q = query.trim().lowercase()
+        if (q.length < 2) return emptyList()
+        val hits = ArrayList<Pair<Int, SearchHit>>()
+        for ((id, title, text) in docs()) {
+            val lower = text.lowercase()
+            val idx = lower.indexOf(q)
+            if (idx < 0) continue
+            val titleMatch = title.lowercase().contains(q)
+            val rank = if (titleMatch) 0 else 1
+            hits += rank to SearchHit(id, title.ifBlank { "More" }, snippet(text, idx, q.length))
+        }
+        return hits.sortedBy { it.first }.map { it.second }.take(limit)
+    }
+
+    private fun snippet(text: String, idx: Int, len: Int): String {
+        val start = (idx - 40).coerceAtLeast(0)
+        val end = (idx + len + 60).coerceAtMost(text.length)
+        val prefix = if (start > 0) "…" else ""
+        val suffix = if (end < text.length) "…" else ""
+        return prefix + text.substring(start, end).trim() + suffix
     }
 
     private fun parseSpans(arr: JSONArray): List<Span> = buildList {

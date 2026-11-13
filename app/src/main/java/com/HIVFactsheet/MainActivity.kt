@@ -13,6 +13,7 @@ import com.HIVFactsheet.data.Repository
 import com.HIVFactsheet.ui.ContentScreen
 import com.HIVFactsheet.ui.FactSheetTheme
 import com.HIVFactsheet.ui.MainMenu
+import com.HIVFactsheet.ui.SearchScreen
 import com.HIVFactsheet.ui.SplashScreen
 import com.HIVFactsheet.ui.WebScreen
 
@@ -36,7 +37,16 @@ private fun AppNav() {
             })
         }
         composable("menu") {
-            MainMenu(onOpen = { id -> nav.navigate("screen/$id") })
+            MainMenu(
+                onOpen = { id -> nav.navigate("screen/$id") },
+                onSearch = { nav.navigate("search") },
+            )
+        }
+        composable("search") {
+            SearchScreen(
+                onOpen = { id -> nav.navigate("screen/$id") },
+                onBack = { nav.popBackStack() },
+            )
         }
         composable(
             route = "screen/{id}",
