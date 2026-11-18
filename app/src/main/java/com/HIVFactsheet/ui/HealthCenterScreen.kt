@@ -1,9 +1,16 @@
 package com.HIVFactsheet.ui
 
+import android.app.Activity
 import android.content.Intent
 import android.net.Uri
 import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.IntentSenderRequest
 import androidx.activity.result.contract.ActivityResultContracts
+import com.google.android.gms.common.api.ResolvableApiException
+import com.google.android.gms.location.LocationRequest
+import com.google.android.gms.location.LocationServices
+import com.google.android.gms.location.LocationSettingsRequest
+import com.google.android.gms.location.Priority
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -49,6 +56,7 @@ import com.HIVFactsheet.data.ClinicFinder
 private sealed interface FinderState {
     data object Loading : FinderState
     data object NeedPermission : FinderState
+    data object LocationOff : FinderState
     data object Offline : FinderState
     data object NoLocation : FinderState
     data object Empty : FinderState
@@ -74,6 +82,31 @@ fun HealthCenterScreen() {
         reload++
     }
 
+    // Result of the in-app "turn on location" system dialog.
+    val locationPromptLauncher = rememberLauncherForActivityResult(
+        ActivityResultContracts.StartIntentSenderForResult()
+    ) { result ->
+        // Only re-query if they actually turned location on (avoids a prompt loop).
+        if (result.resultCode == Activity.RESULT_OK) reload++
+    }
+
+    // Pop the Google Play "turn on location" dialog without leaving the app.
+    fun promptEnableLocation() {
+        val request = LocationSettingsRequest.Builder()
+            .addLocationRequest(
+                LocationRequest.Builder(Priority.PRIORITY_BALANCED_POWER_ACCURACY, 10_000L).build()
+            )
+            .build()
+        LocationServices.getSettingsClient(ctx)
+            .checkLocationSettings(request)
+            .addOnSuccessListener { reload++ }  // already on → proceed to query
+            .addOnFailureListener { e ->
+                if (e is ResolvableApiException) runCatching {
+                    locationPromptLauncher.launch(IntentSenderRequest.Builder(e.resolution).build())
+                }
+            }
+    }
+
     // Auto-request location once if we don't have it yet.
     LaunchedEffect(Unit) {
         if (!hasPerm) launcher.launch(
@@ -84,22 +117,34 @@ fun HealthCenterScreen() {
         )
     }
 
-    // Auto-query whenever permission/connectivity/reload changes.
+    // Auto-query whenever permission/reload changes. Strategy: show the bundled
+    // offline list immediately (always works, never hangs), then quietly upgrade
+    // to live Overpass results if the servers are reachable.
     LaunchedEffect(hasPerm, reload) {
         state = FinderState.Loading
-        when {
-            !hasPerm -> state = FinderState.NeedPermission
-            !ClinicFinder.isOnline(ctx) -> state = FinderState.Offline
-            else -> {
-                val loc = ClinicFinder.lastLocation(ctx)
-                state = if (loc == null) FinderState.NoLocation
-                else try {
-                    val list = ClinicFinder.nearby(loc.latitude, loc.longitude)
-                    if (list.isEmpty()) FinderState.Empty else FinderState.Results(list)
-                } catch (e: Exception) {
-                    FinderState.Error("Couldn't load clinics. Check your connection and try again.")
-                }
-            }
+        if (!hasPerm) {
+            state = FinderState.NeedPermission
+            return@LaunchedEffect
+        }
+        if (!ClinicFinder.isLocationEnabled(ctx)) {
+            state = FinderState.LocationOff
+            // Ask the user to switch location on, in-app, as soon as they arrive.
+            promptEnableLocation()
+            return@LaunchedEffect
+        }
+        val loc = ClinicFinder.currentLocation(ctx)
+        if (loc == null) {
+            state = FinderState.NoLocation
+            return@LaunchedEffect
+        }
+        val offline = ClinicFinder.offlineNearby(ctx, loc.latitude, loc.longitude)
+        if (offline.isNotEmpty()) state = FinderState.Results(offline)
+        if (ClinicFinder.isOnline(ctx)) {
+            runCatching { ClinicFinder.nearby(loc.latitude, loc.longitude) }
+                .onSuccess { live -> if (live.isNotEmpty()) state = FinderState.Results(live) }
+        }
+        if (state is FinderState.Loading) {
+            state = if (ClinicFinder.isOnline(ctx)) FinderState.Empty else FinderState.Offline
         }
     }
 
@@ -109,6 +154,26 @@ fun HealthCenterScreen() {
             ctx.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=$q")))
         }
     }
+
+    fun openLocationSettings() = runCatching {
+        ctx.startActivity(Intent(android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS))
+    }
+
+    fun openAppSettings() = runCatching {
+        ctx.startActivity(
+            Intent(
+                android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
+                Uri.fromParts("package", ctx.packageName, null),
+            )
+        )
+    }
+
+    fun requestPermission() = launcher.launch(
+        arrayOf(
+            android.Manifest.permission.ACCESS_COARSE_LOCATION,
+            android.Manifest.permission.ACCESS_FINE_LOCATION,
+        )
+    )
 
     Column(Modifier.fillMaxSize().padding(16.dp)) {
         Text(
@@ -130,19 +195,19 @@ fun HealthCenterScreen() {
                 Spacer(Modifier.width(10.dp))
                 Text("Finding clinics in the app…", color = MaterialTheme.colorScheme.onSurfaceVariant, fontSize = 13.sp)
             }
-            is FinderState.NeedPermission -> InlineNote(
-                "Allow location to list nearby facilities here.",
-                "Allow location",
-            ) {
-                launcher.launch(
-                    arrayOf(
-                        android.Manifest.permission.ACCESS_COARSE_LOCATION,
-                        android.Manifest.permission.ACCESS_FINE_LOCATION,
-                    )
-                )
-            }
+            is FinderState.NeedPermission -> GateNote(
+                "Location access is required to show HIV care facilities near you. " +
+                    "Please allow location to use this feature.",
+                primary = "Allow location" to { requestPermission() },
+                secondary = "Open settings" to { openAppSettings() },
+            )
+            is FinderState.LocationOff -> GateNote(
+                "Location is turned off. Turn it on to find facilities near you.",
+                primary = "Turn on location" to { openLocationSettings() },
+                secondary = "Retry" to { reload++ },
+            )
             is FinderState.Offline -> InlineNote("You're offline — use the button above when connected.", "Retry") { reload++ }
-            is FinderState.NoLocation -> InlineNote("Turn on location to list facilities here.", "Retry") { reload++ }
+            is FinderState.NoLocation -> InlineNote("Couldn't get your location. Make sure location is on, then retry.", "Retry") { reload++ }
             is FinderState.Empty -> InlineNote("No in-app results found — use the button above.", "Retry") { reload++ }
             is FinderState.Error -> InlineNote("In-app list unavailable right now — use the button above.", "Retry") { reload++ }
             is FinderState.Results -> {
@@ -176,6 +241,27 @@ private fun MapsButton(onClick: () -> Unit) {
             Column(Modifier.weight(1f)) {
                 Text("Find clinics near me", fontWeight = FontWeight.Bold, fontSize = 17.sp, color = BrandCyan)
                 Text("Opens Google Maps at HIV care centres near you", fontSize = 12.sp, color = BrandCyan.copy(alpha = 0.85f))
+            }
+        }
+    }
+}
+
+@Composable
+private fun GateNote(
+    text: String,
+    primary: Pair<String, () -> Unit>,
+    secondary: Pair<String, () -> Unit>,
+) {
+    Column {
+        Text(text, color = MaterialTheme.colorScheme.onSurfaceVariant, fontSize = 13.sp)
+        Spacer(Modifier.height(10.dp))
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Button(
+                onClick = primary.second,
+                colors = ButtonDefaults.buttonColors(containerColor = BrandPurple, contentColor = BrandCyan),
+            ) { Text(primary.first) }
+            androidx.compose.material3.TextButton(onClick = secondary.second) {
+                Text(secondary.first, color = BrandPurple)
             }
         }
     }

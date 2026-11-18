@@ -428,7 +428,244 @@ UPDATES = {
         P(s("The information is for education and does not replace advice from a "
             "qualified health worker.")),
     ],
+    # ---- reproductive health review ----
+    "abortlaws": [
+        H("Latest guidance"),
+        P(s("In Kenya, under Article 26(4) of the 2010 Constitution, abortion is "
+            "permitted", b=True),
+          s(" when a trained health professional judges there is need for emergency "
+            "treatment, or the life OR health (physical or mental) of the mother is in "
+            "danger, or where permitted by other written law.")),
+        P(s("Post-abortion care for a miscarriage or complications is always legal — "
+            "no one should be denied emergency treatment or face arrest for seeking it.")),
+    ],
+    "abortintro": [
+        H("Latest guidance"),
+        P(s("WHO recommends "), s("medical abortion", b=True),
+          s(" with mifepristone plus misoprostol (or misoprostol alone where "
+            "mifepristone is unavailable) as a safe, effective option in early "
+            "pregnancy, alongside procedures such as vacuum aspiration.")),
+    ],
+    "abortsafe": [
+        H("Latest guidance"),
+        P(s("Seek care urgently", b=True, c=BLUE),
+          s(" for heavy bleeding, fever or severe pain after any abortion or "
+            "miscarriage. Post-abortion care is legal in Kenya and will not lead to "
+            "arrest. WHO now recognises safe medical abortion (mifepristone and "
+            "misoprostol) in early pregnancy.")),
+    ],
+    "abortioncomplications": [
+        H("Latest guidance"),
+        P(s("Heavy bleeding, fever or abdominal pain after an abortion or miscarriage "
+            "need urgent care. Post-abortion care is legal and available at health "
+            "facilities in Kenya; seeking it will not lead to arrest.")),
+    ],
+    "abrtfreq": [
+        H("Latest guidance"),
+        P(s("Safe abortion in early pregnancy includes medicines (mifepristone and "
+            "misoprostol), not only in-facility procedures. In Kenya the mother's "
+            "health — physical or mental — is a lawful ground, not only her life "
+            "(Article 26(4)).")),
+    ],
+    "teenagepreg": [
+        H("Latest guidance"),
+        P(s("A pregnant teenager should start "), s("antenatal care early", b=True),
+          s(". If she is living with HIV, lifelong ART (dolutegravir-based) in "
+            "pregnancy and breastfeeding protects the baby (PMTCT). Girls have the "
+            "right to stay in or return to school, and youth-friendly clinics offer "
+            "confidential care.")),
+    ],
+    "whattodo": [
+        H("Latest guidance"),
+        P(s("Whatever the decision, early antenatal care matters, and a pregnant person "
+            "living with HIV should be on lifelong ART to protect the baby (PMTCT). "
+            "Afterwards, modern contraception (implants, IUDs, injectables including "
+            "self-injectable DMPA-SC) helps prevent future unintended pregnancy.")),
+    ],
+    "medical": [
+        H("Latest guidance"),
+        P(s("A teenager living with HIV can protect her baby through lifelong ART "
+            "(PMTCT). HIV prevention for youth also includes PrEP and condoms, and U=U "
+            "means a person with an undetectable viral load does not transmit HIV "
+            "sexually.")),
+    ],
+    "orientation": [
+        H("Latest guidance"),
+        P(s("HIV prevention for people of any sexual orientation includes PrEP and U=U "
+            "(a person on effective treatment with an undetectable viral load does not "
+            "transmit HIV sexually), alongside condoms and testing.")),
+    ],
+    "assault": [
+        H("Act quickly — within 72 hours"),
+        P(s("After sexual assault, seek care urgently.", b=True, c=BLUE),
+          s(" HIV PEP must start within 72 hours to prevent HIV, and emergency "
+            "contraception works best within 72–120 hours. In Kenya, survivors get free "
+            "care at health facilities and GBV recovery centres; try not to wash first, "
+            "and you can call the GBV helpline 1195.")),
+    ],
+    "rappp": [
+        H("Latest guidance"),
+        P(s("Men and boys can be raped too, and deserve the same urgent care: "),
+          s("HIV PEP within 72 hours", b=True, c=BLUE),
+          s(" and medical evaluation, free at health facilities and GBV recovery "
+            "centres. The national GBV helpline is 1195.")),
+    ],
+    "consent": [
+        H("Latest guidance"),
+        P(s("In Kenya the age of consent is 18.", b=True),
+          s(" Sexual activity with anyone under 18 is defilement under the Sexual "
+            "Offences Act, regardless of apparent agreement.")),
+    ],
+    "organs": [
+        H("Latest guidance"),
+        P(s("Female genital mutilation (FGM) is harmful, has no health benefits and is "
+            "illegal in Kenya", b=True),
+          s(" under the Prohibition of FGM Act (2011). It is not a routine or "
+            "beneficial procedure.")),
+    ],
+    "men_the": [
+        H("Latest guidance"),
+        P(s("A true fever is not a symptom of premenstrual syndrome. A mild rise in body "
+            "temperature can follow ovulation, but a fever before a period may signal an "
+            "infection and should be checked.")),
+    ],
+    "men_intr": [
+        H("Latest guidance"),
+        P(s("Sperm can survive up to about 5 days, so the fertile window is roughly 6 "
+            "days around ovulation. Cycle timing varies — no “safe day” is "
+            "fully reliable for preventing pregnancy, so use contraception.")),
+    ],
+    "men_th": [
+        H("Latest guidance"),
+        P(s("First-line relief for period cramps is usually an NSAID painkiller such as "
+            "ibuprofen. Hormonal methods help some people but are optional — discuss "
+            "with a health provider.")),
+    ],
 }
+
+# Corrections applied to the ORIGINAL body text so the factsheet never *shows*
+# outdated or incorrect guidance — not just a note above it. Matched on the
+# joined text of each original block and scoped per content key. Idempotent: a
+# block that has already been corrected no longer matches its needle, so
+# re-running (on fresh or already-finalized data) is safe.
+
+# REMOVE: drop any original block in <key> whose joined text contains the needle.
+REMOVE = {
+    # Fever is not a symptom of premenstrual syndrome; listing it could mask an
+    # infection that needs care.
+    "men_the": ["Fever"],
+    # US-specific formula advice; replaced by WHO/Kenya guidance in REWRITE below.
+    "mtcp": ["In the United States, baby formula is a safe and healthy alternative"],
+    # Western blot is obsolete as an HIV confirmatory test (superseded by
+    # antigen/antibody immunoassays and RNA assays) and is miscategorised here;
+    # the list keeps the still-valid p24 antigen and PCR entries.
+    "hivtest": ["Western blot"],
+    # Drop the phone-number contact line; email is the sole contact.
+    "about_sa": ["For any inquiry or partnership contact us through"],
+}
+
+# REMOVE_IMG: drop any image block in <key> whose src contains the needle.
+REMOVE_IMG = {
+    # Second author photo removed at request.
+    "about_sa": ["salim"],
+}
+
+# REWRITE: replace the spans of the block in <key> whose text contains the
+# needle, keeping the block type (plain body text, not a green note).
+REWRITE = {
+    "abortlaws": [
+        ("When the life of the mother is in danger",
+         [s("When the life OR health (physical or mental) of the mother is in danger, or")]),
+    ],
+    "consent": [
+        ("define the age of sexual consent by state",
+         [s("In Kenya the age of sexual consent is 18. Sexual activity with anyone "
+            "under 18 is defilement under the Sexual Offences Act, whatever the "
+            "younger person appears to agree to. The age of consent differs between "
+            "countries.")]),
+    ],
+    "mtcp": [
+        ("HIV-infected women in the United States should not breastfeed",
+         [s("In Kenya, mothers living with HIV are supported to breastfeed while on "
+            "effective ART (dolutegravir-based), which keeps the risk of passing HIV "
+            "to the baby very low. WHO recommends exclusive breastfeeding for the "
+            "first six months in settings like ours; formula is advised only where it "
+            "is safe and sustainable. Your health worker will help you choose.")]),
+    ],
+    "stage": [
+        ("develop AIDS later and die later",
+         [s("Good nutrition and a balanced diet help people living with HIV stay "
+            "strong and get the most benefit from their treatment.")]),
+    ],
+    # US-centric "your state" contact-tracing text, localised to Kenya's aPNS.
+    "raaa": [
+        ("what the laws are in your state with regard to contact tracing",
+         [s("In Kenya, your HIV clinic can offer assisted partner notification "
+            "services (aPNS): a health worker helps you tell partners who may be at "
+            "risk, confidentially and only with your consent.")]),
+        ("partner notification can be done anonymously through the state",
+         [s("With aPNS you can choose to have a health worker contact partners "
+            "confidentially, without revealing your identity.")]),
+        ("The Department of Health in your state is a good source",
+         [s("Your HIV care clinic or nearest health facility can explain how this "
+            "works and support you through it.")]),
+    ],
+    "manpre": [
+        ("You can contact Legal Aid in your state or territory",
+         [s("You can seek legal advice — for example from a legal aid clinic, the "
+            "courts, or a children's officer — to find out more.")]),
+    ],
+    # Drop the second author (Salim) from the credits, set Brian's title to
+    # Software Engineer, and clear conversion artefacts ("recommended_items").
+    # Keyed on the old title so it matches both freshly generated data (which
+    # still contains Salim) and already-finalized data.
+    "about_sa": [
+        ("Undergraduate Student",
+         [s("Developed by:\n"),
+          s("Brian Kwendo", b=True),
+          s("\nSoftware Engineer", b=True),
+          s("\nPeer mentor")]),
+        ("hfactsheet@gmail.com",
+         [s("hconnect254@gmail.com", b=True, c=BLUE)]),
+    ],
+}
+
+def redact(data):
+    """Remove/rewrite outdated original body blocks. Returns (removed, rewritten)."""
+    removed = rewritten = 0
+    for key, needles in REMOVE.items():
+        if key not in data:
+            print("  redact missing key:", key); continue
+        kept = []
+        for b in data[key]:
+            t = "".join(x["text"] for x in b.get("s", []))
+            if any(n in t for n in needles):
+                removed += 1
+            else:
+                kept.append(b)
+        data[key] = kept
+    for key, needles in REMOVE_IMG.items():
+        if key not in data:
+            print("  redact missing key:", key); continue
+        kept = []
+        for b in data[key]:
+            src = b.get("src", "") if b.get("t") == "img" else ""
+            if src and any(n in src for n in needles):
+                removed += 1
+            else:
+                kept.append(b)
+        data[key] = kept
+    for key, edits in REWRITE.items():
+        if key not in data:
+            print("  redact missing key:", key); continue
+        for b in data[key]:
+            t = "".join(x["text"] for x in b.get("s", []))
+            for needle, spans in edits:
+                if needle in t:
+                    b["s"] = spans
+                    rewritten += 1
+                    break
+    return removed, rewritten
 
 def main():
     data = json.load(open(CONTENT, encoding="utf-8"))
@@ -446,7 +683,10 @@ def main():
     for k in list(data.keys()):
         data[k] = [b for b in data[k] if not artifact(b)]
 
-    # 2. prepend fresh guidance sections
+    # 2. correct outdated original body text in place
+    removed, rewritten = redact(data)
+
+    # 3. prepend fresh guidance sections
     applied = missing = 0
     for key, section in UPDATES.items():
         if key not in data:
@@ -456,7 +696,9 @@ def main():
 
     json.dump(data, open(CONTENT, "w", encoding="utf-8"),
               ensure_ascii=False, separators=(",", ":"))
-    print(f"updated pages: {applied}  missing keys: {missing}  total pages: {len(data)}")
+    print(f"updated pages: {applied}  missing keys: {missing}  "
+          f"redacted: {removed} removed / {rewritten} rewritten  "
+          f"total pages: {len(data)}")
 
 if __name__ == "__main__":
     main()

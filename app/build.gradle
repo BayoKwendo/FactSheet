@@ -12,10 +12,24 @@ android {
         applicationId "com.HIVFactsheet"
         minSdk 21
         targetSdk 34
-        versionCode 246
-        versionName "2.0.0"
+        versionCode 300
+        versionName "3.0.0"
         vectorDrawables { useSupportLibrary true }
         resourceConfigurations += ['en']
+    }
+
+    signingConfigs {
+        release {
+            // Credentials are supplied at build time (–P flags, env vars, or
+            // ~/.gradle/gradle.properties) so no secrets live in this file.
+            def ksPath = findProperty('FS_KEYSTORE') ?: System.getenv('FS_KEYSTORE')
+            if (ksPath) {
+                storeFile file(ksPath)
+                storePassword findProperty('FS_STORE_PASSWORD') ?: System.getenv('FS_STORE_PASSWORD')
+                keyAlias findProperty('FS_KEY_ALIAS') ?: System.getenv('FS_KEY_ALIAS')
+                keyPassword findProperty('FS_KEY_PASSWORD') ?: System.getenv('FS_KEY_PASSWORD')
+            }
+        }
     }
 
     buildTypes {
@@ -23,12 +37,19 @@ android {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
 
     buildFeatures {
         compose true
         buildConfig false
+    }
+
+    lint {
+        // False positive: this app uses ComponentActivity + Compose (no Fragments),
+        // so registerForActivityResult is valid without the fragment library.
+        disable 'InvalidFragmentVersionForActivityResult'
     }
 
     compileOptions {
@@ -59,4 +80,9 @@ dependencies {
     // Extended icons are referenced individually and tree-shaken by R8 in release.
     implementation 'androidx.compose.material:material-icons-extended'
     implementation 'androidx.navigation:navigation-compose:2.8.5'
+
+    // Google Play In-App Updates — enforces the latest published version.
+    implementation 'com.google.android.play:app-update:2.1.0'
+    // Play Services Location — in-app "turn on location" system dialog.
+    implementation 'com.google.android.gms:play-services-location:21.3.0'
 }
