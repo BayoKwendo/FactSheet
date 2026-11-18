@@ -11,9 +11,9 @@ android {
     defaultConfig {
         applicationId "com.HIVFactsheet"
         minSdk 21
-        targetSdk 34
-        versionCode 300
-        versionName "3.0.0"
+        targetSdk 36
+        versionCode 301
+        versionName "3.0.1"
         vectorDrawables { useSupportLibrary true }
         resourceConfigurations += ['en']
     }

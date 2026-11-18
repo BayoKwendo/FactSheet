@@ -1,0 +1,51 @@
+HIVFactSheet — Privacy Policy
+Last updated: 18 November 2026
+Developer: Brian Kwendo
+Contact: hconnect254@gmail.com
+
+HIVFactSheet ("the app") is a free educational app about HIV, reproductive health
+and youth wellbeing. We respect your privacy. The app is designed to work offline
+and does not require you to create an account.
+
+Information we collect
+We do not collect, store, or share any personal information. The app has no sign-in,
+no user accounts, no analytics, and no advertising. All educational content is stored
+on your device.
+
+Location
+The "Find a Health Center" feature can show health facilities near you. If you grant
+location permission, your device location is used only to calculate the distance to
+nearby facilities and is processed on your device. To fetch an up-to-date list of
+nearby clinics, your approximate coordinates may be sent to the public OpenStreetMap
+(Overpass) service purely to answer that request; we do not store this information.
+Opening directions launches Google Maps. If you do not grant location permission, the
+rest of the app works normally, and the app also includes a built-in offline list of
+facilities.
+
+Internet access
+The app uses the internet only to (a) look up nearby health facilities and (b) open
+external links such as Google Maps, YouTube and public health dashboards. No personal
+data is transmitted to the developer.
+
+Data sharing and selling
+We do not sell or share your personal data. We operate no servers that store your data.
+
+Permissions used
+- Location (approximate/precise) — to find health facilities near you.
+- Internet / network state — to fetch the clinic list and open external links.
+
+Third-party services
+The app relies on OpenStreetMap (Overpass API), Google Maps, and Google Play Services
+(for app updates and the system "turn on location" prompt). These services are governed
+by their own privacy policies.
+
+Children
+The app provides health education suitable for young people and does not knowingly
+collect personal information from anyone, including children.
+
+Changes to this policy
+We may update this policy from time to time. Any changes will be posted on this page
+with a new "last updated" date.
+
+Contact
+Questions about this policy? Email hconnect254@gmail.com
